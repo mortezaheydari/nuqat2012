@@ -1,0 +1,1 @@
+<!--<div style="margin-top:5px;" class="register-now"><a href="#">REGISTER NOW</a></div>-->

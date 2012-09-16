@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ticket" value="name:id;datatype:int,name:email;datatype:string,name:FName;datatype:string,name:LName;datatype:string,name:Mobile;datatype:string,name:Package;datatype:string,name:MorningW;datatype:string,name:AfternoonW;datatype:string,name:merchTxnRef;datatype:int,name:Date;datatype:date" />
+</info>

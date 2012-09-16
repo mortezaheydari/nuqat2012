@@ -1,0 +1,520 @@
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><h1>Register Now</h1></td>
+  </tr>
+  <tr>
+    <td><form action="t-info.php" method="post">
+<!-- The secure hash hidden field -->
+
+    <!-- get user input -->
+    
+    
+    
+
+<div style="height:0px;overflow:hidden;">
+<input name="accessCode" value="2297AC40" size="20" maxlength="8"/>
+<input name="merchTxnRef" value="<?php echo $TrnRef ?>" size="20" maxlength="40"/>
+<input name="merchant" value="834501" size="20" maxlength="16"/>
+<input name="orderInfo" value="<?php echo $OrderID ?>" size="20" maxlength="34"/>
+<input name="amount" id="amount" value="" maxlength="10"/>
+<input name="returnURL" size="65" style="visibility:hidden;" value="http://www.nuqat.me/paymentTestForm.php?action=py?" maxlength="250"/></div>
+    
+    <!-- get user input -->    
+
+
+
+
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+    	<table>
+        	<tr>
+            	<td width="180">
+   	  <label for="EMAIL">Email Address  <span>*</span></label></td><td>
+   	  <span id="sprytextfield2">
+      <input type="text" value="" name="EMAIL" class="required email" id="EMAIL" style="width:300px;" />
+      <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></td></tr></table></td>
+  </tr>
+  <tr>
+    <td>	
+    	<table>
+        	<tr>
+            	<td width="180">    
+   	  <label for="FNAME">First Name  <span>*</span></label></td><td>
+   	  <span id="sprytextfield1">
+   	  <input type="text" value="" name="FNAME" class="required" id="FNAME" style="width:300px;" />
+   	  <span class="textfieldRequiredMsg">A value is required.</span></span></td></tr></table></td>
+  </tr>
+  <tr>
+    <td>	
+    	<table>
+        	<tr>
+            	<td width="180">    
+   	  <label for="LNAME">Last Name  <span>*</span></label></td><td>
+   	  <span id="sprytextfield3">
+   	  <input type="text" value="" name="LNAME" class="required" id="LNAME" style="width:300px;" />
+   	  <span class="textfieldRequiredMsg">A value is required.</span></span></td></tr></table></td>
+  </tr>
+  <tr>
+    <td>	
+    	<table>
+        	<tr>
+            	<td width="180">    
+   	  <label for="PHONE">Mobile Phone  <span>*</span></label></td><td>
+   	  <span id="sprytextfield4">
+      <input type="text" name="PHONE" class="required" value="" id="PHONE" style="width:300px;" />
+      <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td>	
+    	<table>
+        	<tr>
+            	<td width="180">    
+   	  <label for="live_in">I live in  <span>*</span></label></td><td>
+   	  <span id="sprytextfield4">
+      <select name="live_in" id="live_in" class="required" style="width:300px;">
+		<option value="KW">Kuwait</option>
+		<option value="AF">Afghanistan</option>
+		<option value="AL">Albania</option>
+		<option value="DZ">Algeria</option>
+		<option value="AS">American Samoa</option>
+		<option value="AD">Andorra</option>
+		<option value="AO">Angola</option>
+		<option value="AI">Anguilla</option>
+		<option value="AQ">Antarctica</option>
+		<option value="AG">Antigua and Barbuda</option>
+		<option value="AR">Argentina</option>
+		<option value="AM">Armenia</option>
+		<option value="AW">Aruba</option>
+		<option value="AU">Australia</option>
+		<option value="AT">Austria</option>
+		<option value="AZ">Azerbaijan</option>
+		<option value="BS">Bahamas</option>
+		<option value="BH">Bahrain</option>
+		<option value="BD">Bangladesh</option>
+		<option value="BB">Barbados</option>
+		<option value="BY">Belarus</option>
+		<option value="BE">Belgium</option>
+		<option value="BZ">Belize</option>
+		<option value="BJ">Benin</option>
+		<option value="BM">Bermuda</option>
+		<option value="BT">Bhutan</option>
+		<option value="BO">Bolivia</option>
+		<option value="BA">Bosnia and Herzegowina</option>
+		<option value="BW">Botswana</option>
+		<option value="BV">Bouvet Island</option>
+		<option value="BR">Brazil</option>
+		<option value="IO">British Indian Ocean Territory</option>
+		<option value="BN">Brunei Darussalam</option>
+		<option value="BG">Bulgaria</option>
+		<option value="BF">Burkina Faso</option>
+		<option value="BI">Burundi</option>
+		<option value="KH">Cambodia</option>
+		<option value="CM">Cameroon</option>
+		<option value="CA">Canada</option>
+		<option value="CV">Cape Verde</option>
+		<option value="KY">Cayman Islands</option>
+		<option value="CF">Central African Republic</option>
+		<option value="TD">Chad</option>
+		<option value="CL">Chile</option>
+		<option value="CN">China</option>
+		<option value="CX">Christmas Island</option>
+		<option value="CC">Cocos (Keeling) Islands</option>
+		<option value="CO">Colombia</option>
+		<option value="KM">Comoros</option>
+		<option value="CG">Congo</option>
+		<option value="CD">Congo, the Democratic Republic of the</option>
+		<option value="CK">Cook Islands</option>
+		<option value="CR">Costa Rica</option>
+		<option value="CI">Cote d'Ivoire</option>
+		<option value="HR">Croatia (Hrvatska)</option>
+		<option value="CU">Cuba</option>
+		<option value="CY">Cyprus</option>
+		<option value="CZ">Czech Republic</option>
+		<option value="DK">Denmark</option>
+		<option value="DJ">Djibouti</option>
+		<option value="DM">Dominica</option>
+		<option value="DO">Dominican Republic</option>
+		<option value="TP">East Timor</option>
+		<option value="EC">Ecuador</option>
+		<option value="EG">Egypt</option>
+		<option value="SV">El Salvador</option>
+		<option value="GQ">Equatorial Guinea</option>
+		<option value="ER">Eritrea</option>
+		<option value="EE">Estonia</option>
+		<option value="ET">Ethiopia</option>
+		<option value="FK">Falkland Islands (Malvinas)</option>
+		<option value="FO">Faroe Islands</option>
+		<option value="FJ">Fiji</option>
+		<option value="FI">Finland</option>
+		<option value="FR">France</option>
+		<option value="FX">France, Metropolitan</option>
+		<option value="GF">French Guiana</option>
+		<option value="PF">French Polynesia</option>
+		<option value="TF">French Southern Territories</option>
+		<option value="GA">Gabon</option>
+		<option value="GM">Gambia</option>
+		<option value="GE">Georgia</option>
+		<option value="DE">Germany</option>
+		<option value="GH">Ghana</option>
+		<option value="GI">Gibraltar</option>
+		<option value="GR">Greece</option>
+		<option value="GL">Greenland</option>
+		<option value="GD">Grenada</option>
+		<option value="GP">Guadeloupe</option>
+		<option value="GU">Guam</option>
+		<option value="GT">Guatemala</option>
+		<option value="GN">Guinea</option>
+		<option value="GW">Guinea-Bissau</option>
+		<option value="GY">Guyana</option>
+		<option value="HT">Haiti</option>
+		<option value="HM">Heard and Mc Donald Islands</option>
+		<option value="VA">Holy See (Vatican City State)</option>
+		<option value="HN">Honduras</option>
+		<option value="HK">Hong Kong</option>
+		<option value="HU">Hungary</option>
+		<option value="IS">Iceland</option>
+		<option value="IN">India</option>
+		<option value="ID">Indonesia</option>
+		<option value="IR">Iran (Islamic Republic of)</option>
+		<option value="IQ">Iraq</option>
+		<option value="IE">Ireland</option>
+		<option value="IT">Italy</option>
+		<option value="JM">Jamaica</option>
+		<option value="JP">Japan</option>
+		<option value="JO">Jordan</option>
+		<option value="KZ">Kazakhstan</option>
+		<option value="KE">Kenya</option>
+		<option value="KI">Kiribati</option>
+		<option value="KP">Korea, Democratic People's Republic of</option>
+		<option value="KR">Korea, Republic of</option>
+		<option value="KW">Kuwait</option>
+		<option value="KG">Kyrgyzstan</option>
+		<option value="LA">Lao People's Democratic Republic</option>
+		<option value="LV">Latvia</option>
+		<option value="LB">Lebanon</option>
+		<option value="LS">Lesotho</option>
+		<option value="LR">Liberia</option>
+		<option value="LY">Libyan Arab Jamahiriya</option>
+		<option value="LI">Liechtenstein</option>
+		<option value="LT">Lithuania</option>
+		<option value="LU">Luxembourg</option>
+		<option value="MO">Macau</option>
+		<option value="MK">Macedonia, The Former Yugoslav Republic of</option>
+		<option value="MG">Madagascar</option>
+		<option value="MW">Malawi</option>
+		<option value="MY">Malaysia</option>
+		<option value="MV">Maldives</option>
+		<option value="ML">Mali</option>
+		<option value="MT">Malta</option>
+		<option value="MH">Marshall Islands</option>
+		<option value="MQ">Martinique</option>
+		<option value="MR">Mauritania</option>
+		<option value="MU">Mauritius</option>
+		<option value="YT">Mayotte</option>
+		<option value="MX">Mexico</option>
+		<option value="FM">Micronesia, Federated States of</option>
+		<option value="MD">Moldova, Republic of</option>
+		<option value="MC">Monaco</option>
+		<option value="MN">Mongolia</option>
+		<option value="MS">Montserrat</option>
+		<option value="MA">Morocco</option>
+		<option value="MZ">Mozambique</option>
+		<option value="MM">Myanmar</option>
+		<option value="NA">Namibia</option>
+		<option value="NR">Nauru</option>
+		<option value="NP">Nepal</option>
+		<option value="NL">Netherlands</option>
+		<option value="AN">Netherlands Antilles</option>
+		<option value="NC">New Caledonia</option>
+		<option value="NZ">New Zealand</option>
+		<option value="NI">Nicaragua</option>
+		<option value="NE">Niger</option>
+		<option value="NG">Nigeria</option>
+		<option value="NU">Niue</option>
+		<option value="NF">Norfolk Island</option>
+		<option value="MP">Northern Mariana Islands</option>
+		<option value="NO">Norway</option>
+		<option value="OM">Oman</option>
+		<option value="PK">Pakistan</option>
+		<option value="PW">Palau</option>
+		<option value="PA">Panama</option>
+		<option value="PG">Papua New Guinea</option>
+		<option value="PY">Paraguay</option>
+		<option value="PE">Peru</option>
+		<option value="PH">Philippines</option>
+		<option value="PN">Pitcairn</option>
+		<option value="PL">Poland</option>
+		<option value="PT">Portugal</option>
+		<option value="PR">Puerto Rico</option>
+		<option value="QA">Qatar</option>
+		<option value="RE">Reunion</option>
+		<option value="RO">Romania</option>
+		<option value="RU">Russian Federation</option>
+		<option value="RW">Rwanda</option>
+		<option value="KN">Saint Kitts and Nevis</option> 
+		<option value="LC">Saint LUCIA</option>
+		<option value="VC">Saint Vincent and the Grenadines</option>
+		<option value="WS">Samoa</option>
+		<option value="SM">San Marino</option>
+		<option value="ST">Sao Tome and Principe</option> 
+		<option value="SA">Saudi Arabia</option>
+		<option value="SN">Senegal</option>
+		<option value="SC">Seychelles</option>
+		<option value="SL">Sierra Leone</option>
+		<option value="SG">Singapore</option>
+		<option value="SK">Slovakia (Slovak Republic)</option>
+		<option value="SI">Slovenia</option>
+		<option value="SB">Solomon Islands</option>
+		<option value="SO">Somalia</option>
+		<option value="ZA">South Africa</option>
+		<option value="GS">South Georgia and the South Sandwich Islands</option>
+		<option value="ES">Spain</option>
+		<option value="LK">Sri Lanka</option>
+		<option value="SH">St. Helena</option>
+		<option value="PM">St. Pierre and Miquelon</option>
+		<option value="SD">Sudan</option>
+		<option value="SR">Suriname</option>
+		<option value="SJ">Svalbard and Jan Mayen Islands</option>
+		<option value="SZ">Swaziland</option>
+		<option value="SE">Sweden</option>
+		<option value="CH">Switzerland</option>
+		<option value="SY">Syrian Arab Republic</option>
+		<option value="TW">Taiwan, Province of China</option>
+		<option value="TJ">Tajikistan</option>
+		<option value="TZ">Tanzania, United Republic of</option>
+		<option value="TH">Thailand</option>
+		<option value="TG">Togo</option>
+		<option value="TK">Tokelau</option>
+		<option value="TO">Tonga</option>
+		<option value="TT">Trinidad and Tobago</option>
+		<option value="TN">Tunisia</option>
+		<option value="TR">Turkey</option>
+		<option value="TM">Turkmenistan</option>
+		<option value="TC">Turks and Caicos Islands</option>
+		<option value="TV">Tuvalu</option>
+		<option value="UG">Uganda</option>
+		<option value="UA">Ukraine</option>
+		<option value="AE">United Arab Emirates</option>
+		<option value="GB">United Kingdom</option>
+		<option value="US">United States</option>
+		<option value="UM">United States Minor Outlying Islands</option>
+		<option value="UY">Uruguay</option>
+		<option value="UZ">Uzbekistan</option>
+		<option value="VU">Vanuatu</option>
+		<option value="VE">Venezuela</option>
+		<option value="VN">Viet Nam</option>
+		<option value="VG">Virgin Islands (British)</option>
+		<option value="VI">Virgin Islands (U.S.)</option>
+		<option value="WF">Wallis and Futuna Islands</option>
+		<option value="EH">Western Sahara</option>
+		<option value="YE">Yemen</option>
+		<option value="YU">Yugoslavia</option>
+		<option value="ZM">Zambia</option>
+		<option value="ZW">Zimbabwe</option>
+	</select>
+      <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td>	
+    	<table>
+        	<tr>
+            	<td width="180">    
+   	  <label for="address">Address  <span>*</span></label></td><td>
+   	  <span id="sprytextfield4">
+      <input type="text" name="address" class="required" value="" id="address" style="width:300px" />
+      <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td>	
+    	<table>
+        	<tr>
+            	<td width="180">    
+   	  <label for="PHONE">How did you hear about us?  <span>*</span></label></td><td>
+   	  <span id="sprytextfield4">
+
+	  <select name="hear_us" id="hear_us" style="width:300px;">
+	  	<option value="I'm a regular participant">I'm a regular participant</option>
+	  	<option value="Thru a Nuqat representative">Thru a Nuqat representative</option>
+	  	<option value="I'm your follower on social media">I'm your follower on social media</option>
+	  	<option value="read about you in a publication">read about you in a publication</option>
+	  	<option value="recommended by a friend">recommended by a friend</option>
+ 	    <option value="">other</option>
+	  </select>
+	  <input type="text" name="hear_us" class="required" value="" id="hear_us_other" style="width:300px;visibility: hidden;" />
+      <span class="textfieldRequiredMsg">A value is required.</span><span class="textfieldInvalidFormatMsg">Invalid format.</span></span></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td>	
+    	<table>
+        	<tr>
+            	<td width="180">    
+    	<label for="PACKAGE">Choose Your Package  <span>*</span></label></td><td>
+    	<span id="spryselect1">
+    	<select onchange="copy();" name="PACKAGE" class="required" id="PACKAGE" style="width:300px;">
+    	  <option value="">Choose...</option>
+    	  <option value="3d2wd0">3 days Lectures + 2 workshops = 1,100$</option>
+    	  <option value="3d1wd0">3 days + 1 workshop = 850$</option>
+    	  <option value="3d0wd0">3 days Lectures = 500$</option>
+          <option value="0d1wd0">1 Workshop = 500$</option>
+    	  <option value="1d0wd1">Day 1 Lectures = 200$</option>
+    	  <option value="1d0wd2">Day 2 Lectures = 200$</option>
+    	  <option value="1d0wd3">Day 3 Lectures = 200$</option>
+  	  	</select>
+      	<div id="label"></div>
+
+    	<span class="selectRequiredMsg">Please select an item.</span></span></td></tr></table></td>
+  </tr>
+
+  <tr>
+    <td><div id="time_div" style="visibility:hidden;height:0;overflow:hidden;">
+    	<table>
+        	<tr>
+            	<td width="180">    
+    	<label for="time">Please Select When</label></td><td>
+    	<select onchange="
+	if (document.getElementById('time').value==0) {
+		document.getElementById('morning_box').style.visibility = 'visible';
+		document.getElementById('morning_box').style.height = '173px';
+		document.getElementById('morning_box').style.overflow = 'hidden';	
+		
+		document.getElementById('afternoon_box').style.visibility = 'hidden';
+		document.getElementById('afternoon_box').style.height = '0px';
+		document.getElementById('afternoon_box').style.overflow = 'hidden';
+        
+        
+        document.getElementById('MorningW_0').checked = false;
+
+        document.getElementById('MorningW_2').checked = false;        
+        document.getElementById('MorningW_3').checked = false;        
+        document.getElementById('MorningW_4').checked = false;             
+        document.getElementById('MorningW_6').checked = false;        
+        document.getElementById('AfternoonW_0').checked = false;        
+        document.getElementById('AfternoonW_1').checked = false;        
+        document.getElementById('AfternoonW_2').checked = false;     
+          
+        document.getElementById('AfternoonW_4').checked = false;    
+        document.getElementById('AfternoonW_5').checked = false;                       
+        
+					
+	} else if (document.getElementById('time').value==1) {
+		document.getElementById('morning_box').style.visibility = 'hidden';
+		document.getElementById('morning_box').style.height = '0px';
+		document.getElementById('morning_box').style.overflow = 'hidden';
+		
+		document.getElementById('afternoon_box').style.visibility = 'visible';
+		document.getElementById('afternoon_box').style.height = '131px';
+		document.getElementById('afternoon_box').style.overflow = 'hidden';
+        
+        
+        document.getElementById('MorningW_0').checked = false;
+
+        document.getElementById('MorningW_2').checked = false;        
+        document.getElementById('MorningW_3').checked = false;        
+        document.getElementById('MorningW_4').checked = false;             
+        document.getElementById('MorningW_6').checked = false;        
+        document.getElementById('AfternoonW_0').checked = false;        
+        document.getElementById('AfternoonW_1').checked = false;        
+        document.getElementById('AfternoonW_2').checked = false;     
+          
+        document.getElementById('AfternoonW_4').checked = false;    
+        document.getElementById('AfternoonW_5').checked = false;           					
+	}        
+        
+        " name="time" class="required" id="time">
+    	  <option value="">Choose...</option>
+    	  <option value="0">Morning</option>
+    	  <option value="1">Afternoon</option>
+  	  </select>
+</td></tr></table></div></td>
+  </tr>
+  
+  <tr>
+    <td><div id="morning_box" style="visibility:hidden;height:0;overflow:hidden;">
+    <label>Morning Workshops (each workshop is for 3 consecutive Mornings)</label>
+    <table width="400" id="MorningW">
+        <tr>
+          <td>
+          <label>
+            <input type="radio" onclick="" name="MorningW" value="Younes Duret (Product)" id="MorningW_0" class="radioBtn" />
+            Younes Duret (Product)</label><br />
+			<label>
+            <input type="radio" name="MorningW" value="Nedda & Gisbert (Jewelry)" id="MorningW_2" class="radioBtn" />
+            Nedda & Gisbert (Jewelry)</label><br />
+			<label>
+            <input type="radio" name="MorningW" value="Manar Moursi (Architecture)" id="MorningW_3" class="radioBtn" />
+            Manar Moursi (Architecture)</label><br />
+			<label>
+            <input type="radio" name="MorningW" value="Haleh Anvari (Photography)" id="MorningW_4" class="radioBtn" />
+            Haleh Anvari (Photography)</label><br />
+			<label>
+            <input type="radio" name="MorningW" value="Asad Faulwell (Arabesque Mixed Media)" id="MorningW_6" class="radioBtn" />
+            Asad Faulwell (Arabesque Mixed Media)</label><br /></td>
+          </td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td><div id="afternoon_box" style="visibility:hidden;height:0;overflow:hidden;">
+      <label>Afternoon Workshops (each workshop is for 3 consecutive Afternoons)</label>
+      <table width="400" id="AfternoonW">
+        <tr>
+          <td>
+          <label>
+            <input type="radio" name="AfternoonW" value="Alfred Tarazi (Mixed Media)" id="AfternoonW_0" class="radioBtn" />
+            Alfred Tarazi (Mixed Media)</label><br />
+			<label>
+            <input type="radio" name="AfternoonW" value="Pascal Zoghbi (Arabic Type)" id="AfternoonW_1" class="radioBtn" />
+            Pascal Zoghbi (Arabic Type)</label><br />
+			<label>
+            <input type="radio" name="AfternoonW" value="Osama El Sid (Photography technique)" id="AfternoonW_2" class="radioBtn" />
+            Osama El Sid (Photography technique)</label><br />
+			<label>
+            <input type="radio" name="AfternoonW" value="Sh. Alanoud Al Sabah (Jewelry) (20th) + WTD MAG (21st-22nd) only" id="AfternoonW_4" class="radioBtn" />
+            Sh. Alanoud Al Sabah(Jewelry)(20th) + WTD MAG(21st-22nd) only</label><br /></td>
+        </tr>
+      </table></div>    
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:5px 0 5px 0;">
+
+      <span id="sprycheckbox1">
+      <input type="checkbox" name="Terms" id="Terms" />
+      <label for="Terms">I agree to the Nuqat <a class="nav-twotwelve" target="_blank"   href="terms.php">Terms</a></label>
+      <span class="checkboxRequiredMsg">Please Agree to the terms.</span></span></td>
+  </tr>   
+  <tr>
+    <td>
+
+    <input type="submit" class="SubmitBtn" NAME="SubButL" value="Register"></td>
+  </tr>   
+  
+  <tr>
+    <td><p>Group packages are available. Please email us on <a class="nav-twotwelve" target="_blank" href="mailto:info@nuqat.me">info@nuqat.me</a><p></td>
+  </tr>   
+</table>
+
+</form></td>
+  </tr>
+</table>
+
+
+
+
+
+
+    
+<script type="text/javascript">
+var sprytextfield1 = new Spry.Widget.ValidationTextField("sprytextfield1");
+var sprytextfield2 = new Spry.Widget.ValidationTextField("sprytextfield2", "email");
+var sprytextfield3 = new Spry.Widget.ValidationTextField("sprytextfield3");
+var sprytextfield4 = new Spry.Widget.ValidationTextField("sprytextfield4", "phone_number", {format:"phone_custom"});
+var spryselect1 = new Spry.Widget.ValidationSelect("spryselect1");
+var sprycheckbox1 = new Spry.Widget.ValidationCheckbox("sprycheckbox1");
+</script>

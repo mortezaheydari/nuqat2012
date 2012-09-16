@@ -1,0 +1,80 @@
+/* ShH - temp styles */
+
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background: #1D1D1B;
+}
+
+.pageContent {
+	width: 1010px;
+	padding-left:7px;
+	padding-right:7px;
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	overflow: hidden; /* this declaration makes the .container understand where the floated columns within ends and contain them */
+	background: #FFF;
+}
+
+
+.mainSize {
+	padding-left:7px;
+	padding-right:7px;
+	width: 730px;
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	vertical-align:top !important;
+}	
+
+.sidebarSize {
+	float: right;
+	width: 235px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:0 !important;
+	margin: 0 0 0 0 !important; /* the auto value on the sides, coupled with the width, centers the layout */
+	vertical-align:top !important;
+	
+}
+
+.mainContent {
+	
+}
+.sidebar01 {
+		background: #fff;
+}
+.sidebar02 {
+		background: #1D1D1B;
+}
+
+.footer {
+
+}
+.footerNull {
+	background: #1D1D1B;
+	float: right;
+	width: 235px;
+	margin-left:10px;
+
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+	vertical-align:top !important;		
+}
+
+.header {
+	width: 1010px;
+	padding: 7px 7px 7px 7px;
+	background: #FFF;
+	vertical-align:top !important;
+	border:none;
+
+}
+
+.section {
+	padding-top:0px;
+	padding-bottom:0px;
+	width:999px;
+	border:none;
+}
+/* ShH - temp styles */  
+
+	

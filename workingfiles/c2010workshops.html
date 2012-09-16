@@ -1,0 +1,340 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/b/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title></title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+
+  <!-- CSS: implied media=all -->
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="../css/style.css">
+  <!-- end CSS-->
+
+  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+
+  <!-- All JavaScript at the bottom, except for Modernizr / Respond.
+       Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
+       For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ -->
+    <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2'></script>       
+    <script type="text/javascript">
+        $(function() {
+            var offset = $("#sidebar").offset();
+            var topPadding = 15;
+            $(window).scroll(function() {
+                if ($(window).scrollTop() > offset.top) {
+                    $("#sidebar").stop().animate({
+                        marginTop: $(window).scrollTop() - offset.top + topPadding
+                    });
+                } else {
+                    $("#sidebar").stop().animate({
+                        marginTop: 0
+                    });
+                };
+            });
+        });
+    </script>    
+    
+        <script>
+        $(function() {
+        
+                function filterPath(string) {
+                        return string
+                        .replace(/^\//,'')
+                        .replace(/(index|default).[a-zA-Z]{3,4}$/,'')
+                        .replace(/\/$/,'');
+                }
+        
+                var locationPath = filterPath(location.pathname);
+                var scrollElem = scrollableElement('html', 'body');
+        
+                // Any links with hash tags in them (can't do ^= because of fully qualified URL potential)
+                $('a[href*=#]').each(function() {
+        
+                        // Ensure it's a same-page link
+                        var thisPath = filterPath(this.pathname) || locationPath;
+                        if (  locationPath == thisPath
+                                && (location.hostname == this.hostname || !this.hostname)
+                                && this.hash.replace(/#/,'') ) {
+        
+                                        // Ensure target exists
+                                        var $target = $(this.hash), target = this.hash;
+                                        if (target) {
+        
+                                                // Find location of target
+                                                var targetOffset = $target.offset().top;
+                                                $(this).click(function(event) {
+        
+                                                        // Prevent jump-down
+                                                        event.preventDefault();
+        
+                                                        // Animate to target
+                                                        $(scrollElem).animate({scrollTop: targetOffset}, 400, function() {
+        
+                                                                // Set hash in URL after animation successful
+                                                                location.hash = target;
+        
+                                                        });
+                                                });
+                                        }
+                        }
+        
+                });
+        
+                // Use the first element that is "scrollable"  (cross-browser fix?)
+                function scrollableElement(els) {
+                        for (var i = 0, argLength = arguments.length; i <argLength; i++) {
+                                var el = arguments[i],
+                                $scrollElement = $(el);
+                                if ($scrollElement.scrollTop()> 0) {
+                                        return el;
+                                } else {
+                                        $scrollElement.scrollTop(1);
+                                        var isScrollable = $scrollElement.scrollTop()> 0;
+                                        $scrollElement.scrollTop(0);
+                                        if (isScrollable) {
+                                                return el;
+                                        }
+                                }
+                        }
+                        return [];
+                }
+        
+        });
+        </script>      
+  <script src="../js/libs/modernizr-2.0.6.min.js"></script>
+  
+<link href="../css/screen.css" rel="stylesheet" type="text/css" media="screen" />
+  
+</head>
+
+<body id="about">
+
+  <div id="container">
+    <header>
+
+
+    </header>
+    <div id="main" role="main">
+    
+
+	<script type="text/javascript">
+		$(document).ready(function(){	
+			$("#slider-large").easySlider({
+				auto: true, 
+				continuous: true
+			});
+		});	
+	</script>
+        
+<table width="710" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="5"><h1>workshops</h1></td>
+    </tr>
+  <tr>
+    <td colspan="5"><p>Everyday after the lectures 2 worshops were conducted by our fine panel of conductors all in relation to the topic discussed. On the exception of the third day where three workshops were held in response to the high demand of participants.<br />All workshops were capped in full capacity.</p></td>
+    </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+    </tr>
+  <tr>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;"><img width="135px" height="135px" src="../img/c2010/speakers/RANA-SALAM.jpg" /></td>
+  </tr>
+  <tr>
+    <td><strong>RANA SALAM</strong></td>
+  </tr>
+  <tr>
+    <td><p>A world renowned branding designer, based</p></td>
+  </tr>
+</table>
+</td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;">><img width="135px" height="135px" src="../img/c2010/speakers/tarek-atrissiBW-SMALL.jpg" /></td>
+  </tr>
+  <tr>
+    <td><strong>MR. TAREK ATRISSI</strong></td>
+  </tr>
+  <tr>
+    <td><p>Internationally acclaimed graphic designer and typographer based in Holland</p></td>
+  </tr>
+</table></td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;"><img width="135px" height="135px" src="../img/c2010/speakers/MEHDI-SAEED.jpg" /></td>
+  </tr>
+  <tr>
+    <td><strong>MEHDI SAEED</strong></td>
+  </tr>
+  <tr>
+    <td><p>Iranain graphic designer calligrapher and type designer</p></td>
+  </tr>
+</table></td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;"><img width="135px" height="135px" src="../img/c2010/speakers/Ganzeer.jpg" /></td>
+  </tr>
+  <tr>
+    <td><strong>GANZEER</strong></td>
+  </tr>
+  <tr>
+    <td><p>Egyption designer, blogger, activist and street artist</p></td>
+  </tr>
+</table></td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;"><img width="135px" height="135px" src="../img/c2010/speakers/wafa.jpg" /></td>
+  </tr>
+  <tr>
+    <td><strong>WAFAA OBEIDAT</strong></td>
+  </tr>
+  <tr>
+    <td><p>A creative Bahraini entreperneur, founder of Sketchbook Magazine</p></td>
+  </tr>
+</table></td>
+  </tr>
+<tr>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;"><img width="135px" height="135px" src="../img/c2010/speakers/abdulrazzag-Al-Shamali.jpg" /></td>
+  </tr>
+  <tr>
+    <td><strong>ABDULRAZZAG ALSHAMALI</strong></td>
+  </tr>
+  <tr>
+    <td><p>Graphic designer and graffiti
+artists</p></td>
+  </tr>
+</table>
+</td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;"><img width="135px" height="135px" src="../img/c2010/speakers/BESMA-AL-QASSAR.jpg" /></td>
+  </tr>
+  <tr>
+    <td><strong>BESMA AL QASSAR</strong></td>
+  </tr>
+  <tr>
+    <td><p>Copywriter</p></td>
+  </tr>
+</table></td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table></td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table></td>
+    <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="text-align:center;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</table></td>
+  </tr>
+  <tr>
+    <td colspan="5">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5">		
+    	<table width="710" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>    <div id="slider-large">
+			<ul>				
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/01.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/02.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/03.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/04.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/05.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/06.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/07.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/08.jpg" /></a></li>
+				<li><a href="../#"><img src="../img/c2010/workshopgallery/09.jpg" /></a></li>
+                
+			</ul>
+		</div>
+</td>
+  </tr>
+</table>
+
+        </td>
+    </tr>
+  <tr>
+    <td width="142">&nbsp;</td>
+    <td width="142">&nbsp;</td>
+    <td width="142">&nbsp;</td>
+    <td width="142">&nbsp;</td>
+    <td width="142">&nbsp;</td>
+  </tr>
+</table>
+
+    
+
+    </div>
+    <footer>
+
+    </footer>
+  </div> 
+  <!--! end of #container -->
+    
+    
+    <!-- JavaScript at the bottom for fast page loading -->
+    
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+    <script src="..///ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../js/libs/jquery-1.6.2.min.js"><\/script>')</script>
+    
+    
+    <!-- scripts concatenated and minified via ant build script-->
+    <script defer src="../js/plugins.js"></script>
+    <script defer src="../js/script.js"></script>
+    
+    <!-- end scripts-->
+    
+    
+    
+    <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+    <!--[if lt IE 7 ]>
+    <script src="..///ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+</body>
+</html>

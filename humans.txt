@@ -1,0 +1,67 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  <Title>: WAKIM ZEIDAN
+  Site: http://www.wakpot.com
+  Twitter: 
+  Location: Kuwait
+  
+  <Title>: SARA AL NAFISI
+  Site: http://rawdesign.me/
+  Twitter:
+  Location: Kuwait
+
+  <Title>: HUSSA AL HUMAIDHI
+  Site: http://rawdesign.me/
+  Twitter: 
+  Location: Kuwait
+
+  <Title>: DANA AL HILAL
+  Site: 
+  Twitter:
+  Location: Kuwait
+                            
+  Your title: Your name.                          
+  Site: email, link to a contact form, etc.                           
+  Twitter: your Twitter username.
+  Location: Kuwait
+                         
+
+
+    
+/* THANKS */
+  Names (& URL): 
+
+/* SITE */
+  Standards: HTML5, CSS3, PHP
+  Components: Modernizr, jQuery, prototype.js
+  Software: Adobe Dreamweaver CS5.5
+  Framework: y.u.no php framework
+  
+
+                                    
+                               -o/-                       
+                               +oo//-                     
+                              :ooo+//:                    
+                             -ooooo///-                   
+                             /oooooo//:                   
+                            :ooooooo+//-                  
+                           -+oooooooo///-                 
+           -://////////////+oooooooooo++////////////::    
+            :+ooooooooooooooooooooooooooooooooooooo+:::-  
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-   
+                     -:+ooooooooooooooooo+:://////:--     
+                       /ooooooooooooooooo+//////:-        
+                      -ooooooooooooooooooo////-           
+                      /ooooooooo+oooooooooo//:            
+                     :ooooooo+/::/+oooooooo+//-           
+                    -oooooo/::///////+oooooo///-          
+                    /ooo+::://////:---:/+oooo//:          
+                   -o+/::///////:-      -:/+o+//-         
+                   :-:///////:-            -:/://         
+                     -////:-                 --//:        
+                       --                       -:        

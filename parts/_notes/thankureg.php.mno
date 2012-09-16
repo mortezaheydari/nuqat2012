@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ticket" value="name:id;datatype:int,name:merchTxnRef;datatype:int,name:receiptNo;datatype:int,name:transactionNo;datatype:int,name:acqResponseCode;datatype:int,name:authorizeID;datatype:int,name:batchNo;datatype:int,name:cardType;datatype:string" />
+</info>
