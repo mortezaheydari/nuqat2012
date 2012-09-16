@@ -15,7 +15,7 @@
 <!--header main text table-->
 <table style="border:none; margin-top:45px; margin-left:30px;">
 <tr><td>
-<p style="font-size:1.15em; color:#1D1D1B; line-height:20px; line-height:0px; text-transform:uppercase;">Nuqat Design Conference DUBAI 2012</p>
+<p style="font-size:1.15em; color:#1D1D1B; line-height:20px; line-height:0px; text-transform:uppercase;">Nuqat Design Conference 2012</p>
 </td></tr>
 <tr><td>
 
@@ -54,7 +54,7 @@
         </td></tr>
 
     	<tr ><td>
-		<img src="img/c2012/sponsors/DCAA.jpg" height="100" width="300" align="right" style="margin-bottom:5px; "/>
+		<img src="img/c2012/sponsors/DCAA.jpg" height="100" width="300" align="right" style="margin-bottom:5px; visibility:hidden"/>
     
 		</td></tr>
         <tr><td>
