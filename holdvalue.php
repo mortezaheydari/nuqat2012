@@ -13,11 +13,11 @@
 	$date = date("Y/m/d");
 	$merchTxnRef = $_POST['merchTxnRef'];
 
-/*mysql_connect("shahinnuqat.db.8967694.hostedresource.com", "shahinnuqat", "Shahin@123") or die ('Error: ' . mysql_error());
-mysql_select_db("shahinnuqat");*/
+mysql_connect("shahinnuqat.db.8967694.hostedresource.com", "shahinnuqat", "Shahin@123") or die ('Error: ' . mysql_error());
+mysql_select_db("shahinnuqat");
 
- mysql_connect("morteza-pc", "shahin", "admin") or die ('Error: ' . mysql_error());
-mysql_select_db("nuqat2012"); 
+/* mysql_connect("morteza-pc", "shahin", "admin") or die ('Error: ' . mysql_error());
+mysql_select_db("nuqat2012"); */
 
 
 $query = "INSERT INTO registeration (email, FName, LName, Mobile, live_in, address, hear, Package, MorningW, AfternoonW, Date, merchTxnRef) VALUES ('".$email."', '".$fname."', '".$lname."', '".$phone."', '".$live_in."', '".$address."', '".$hear."', '".$package."', '".$morningW."', '".$afternoonW."', '".$date."', '".$merchTxnRef."')";
