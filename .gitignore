@@ -17,3 +17,5 @@
 # Ignore all logfiles and tempfiles.
 /nuqat20120219
 /nuqat20120219/*
+
+.DS_Store
