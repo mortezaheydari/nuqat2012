@@ -7,7 +7,9 @@
 			          <td><p><strong>NUR KAOUKJI</strong></p></td>
 		            </tr>
 			        <tr>
-			          <td><p style="color:#636362;">-</p></td>
+			          <td><p style="color:#636362;">FASHION DESIGNER 
+OWNER OF NOON.
+</p></td>
 		            </tr>
 	            </table></td>
 			    <td width="215" style="vertical-align:top;padding-left:10;">

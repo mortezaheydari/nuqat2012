@@ -7,7 +7,7 @@
 			          <td><p><strong>KHALID SHAFAR</strong></p></td>
 		            </tr>
 			        <tr>
-			          <td><p style="color:#636362;">-</p></td>
+			          <td><p style="color:#636362;">EMIRATI PRODUCT DESIGNER</p></td>
 		            </tr>
 	            </table></td>
 			    <td width="215" style="vertical-align:top;padding-left:10;">
