@@ -78,20 +78,20 @@ td { padding:0 0 0px 50px;font-family: 'nuqat';font-weight:bolder;font-size:0.8e
   <tr>
     <td>PACKAGE: <?php 
   	if ($row_ticket['Package'] == "3d2wd0") {
-		echo "Package: 3 days Lectures + 2 workshops = 1100$";
+		echo "3 days Lectures + 2 workshops = KD 230 (820$)";
 	} elseif ($row_ticket['Package'] == "3d1wd0") {
-		echo "Package: 3 days + 1 workshop = 850$";
+		echo "3 days + 1 workshop = KD 130 (460$)";
 	}  elseif ($row_ticket['Package'] == "3d0wd0") {
-		echo "Package: 3 days Lectures = 500$";
+		echo "3 days Lectures = KD 30 (110$)";
 	}  elseif ($row_ticket['Package'] == "0d1wd0") {
-		echo "Package: 1 Workshop = 500$";
-	}  elseif ($row_ticket['Package'] == "1d0wd1") {
+		echo "1 Workshop = KD 110 (390$)";
+	} /* elseif ($row_ticket['Package'] == "1d0wd1") {
 		echo "Package: Day 1 Lectures = 200$";
 	}  elseif ($row_ticket['Package'] == "1d0wd2") {
 		echo "Package: Day 2 Lectures = 200$";
 	}  elseif ($row_ticket['Package'] == "1d0wd3") {
 		echo "Package: Day 3 Lectures = 200$";
-	}	
+	} */	
 	?></td>
   </tr>
   <tr>

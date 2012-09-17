@@ -424,7 +424,11 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
       <input value="<?php echo $_POST['PHONE']; ?>" name="PHONE" />
       <input value="<?php echo $_POST['live_in']; ?>" name="live_in" />
       <input value="<?php echo $_POST['address']; ?>" name="address" />
-      <input value="<?php echo $_POST['hear']; ?>" name="hear" />
+      <input value="<?php if ($_POST['hear'] == "other") {
+		echo $_POST['hear_other'];
+	} else{
+		echo $_POST['hear'];			
+	} ?>" name="hear" />
       <input value="<?php echo $_POST['PACKAGE']; ?>" name="PACKAGE" />
       <input value="<?php echo $_POST['MorningW']; ?>" name="MorningW" />
       <input value="<?php echo $_POST['AfternoonW']; ?>" name="AfternoonW" />
@@ -460,7 +464,11 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
     <td style="padding:5px 0 5px 0;font-family: 'nuqat';">Address: <?php echo $_POST['address']; ?></td>
   </tr>
   <tr>
-    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">Heard about us: <?php echo $_POST['hear']; ?></td>
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">Heard about us: <?php 	if ($_POST['hear'] == "other") {
+		echo $_POST['hear_other'];
+	} else{
+		echo $_POST['hear'];			
+	} ?></td>
   </tr>      
   <tr>
     <td>&nbsp;</td>
@@ -468,20 +476,20 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
   <tr>
     <td style="padding:5px 0 5px 0;font-family: 'nuqat';">PACKAGE: <?php 
   	if ($_POST['PACKAGE'] == "3d2wd0") {
-		echo "Package: 3 days Lectures + 2 workshops = 1,100$";
-	}  elseif ($_POST['PACKAGE'] == "3d1wd0") {
-		echo "Package: 3 days + 1 workshop = 850$";
+		echo "3 days Lectures + 2 workshops = KD 230 (820$)";
+	} elseif ($_POST['PACKAGE'] == "3d1wd0") {
+		echo "3 days + 1 workshop = KD 130 (460$)";
 	}  elseif ($_POST['PACKAGE'] == "3d0wd0") {
-		echo "Package: 3 days Lectures = 500$";
+		echo "3 days Lectures = KD 30 (110$)";
 	}  elseif ($_POST['PACKAGE'] == "0d1wd0") {
-		echo "Package: 1 Workshop = 500$";
-	}  elseif ($_POST['PACKAGE'] == "1d0wd1") {
+		echo "1 Workshop = KD 110 (390$)";
+	} /* elseif ($_POST['PACKAGE'] == "1d0wd1") {
 		echo "Package: Day 1 Lectures = 200$";
 	}  elseif ($_POST['PACKAGE'] == "1d0wd2") {
 		echo "Package: Day 2 Lectures = 200$";
 	}  elseif ($_POST['PACKAGE'] == "1d0wd3") {
 		echo "Package: Day 3 Lectures = 200$";
-	}	
+	} */	
 	?></td>
   </tr>
   <tr>
@@ -515,7 +523,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
     <td height="100">&nbsp;</td>
   </tr>
   <tr>
-    <td style="text-align:center;font-family: 'nuqat';color:#139BA3;">PLEASE CONFIRM YOUR E-TICKET BEFORE PAYMENT.</td>
+    <td style="text-align:center;font-family: 'nuqat';color:#E94F1B;">PLEASE CONFIRM YOUR E-TICKET BEFORE PAYMENT.</td>
   </tr>
 </table><br>
 

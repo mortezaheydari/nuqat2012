@@ -24,7 +24,7 @@
 	<h1>THE LOST CITY OF </h1>
 	</td>
 	<td>
-	<h1 style="color:#139BA3; padding-left:5px;">ARABESQUE</h1>
+	<h1 style="color:#E94F1B; padding-left:5px;">ARABESQUE</h1>
 	</td>
 	</tr>
 	</table>

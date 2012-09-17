@@ -325,8 +325,10 @@ function copy() {
             $('#hear').change(function() {
               if($(this).find('option:selected').val() == "other"){
                 $("#other_reason").show();
+                $("#other_reason").attr('name') = "hear";
               }else{
                 $("#other_reason").hide();
+                $("#other_reason").attr('name') = "hear_other";
               }
             });
             $("#other_reason").keyup(function(ev){
@@ -334,9 +336,7 @@ function copy() {
                   if(othersOption.val() == "other"){
                     ev.preventDefault();
                     //change the selected drop down text
-                    $(othersOption).html($("#other_reason").val()); 
-
-
+                    $(othersOption).html($("#other_reason").val());
                   } 
             });
         });            

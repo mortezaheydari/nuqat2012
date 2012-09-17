@@ -349,7 +349,7 @@
    	    <option value="recommended by a friend">recommended by a friend</option>
    	    <option value="other">other</option>
  	    </select>
-        <input id="other_reason" name="hear" type="text" placeholder="Other way" style="width:270px;" />
+        <input id="other_reason" name="hear_other" type="text" placeholder="Other way" style="width:270px;" />
    	  <span class="selectInvalidMsg">Please select a valid item.</span><span class="selectRequiredMsg">Please select an item.</span></span>   	    <!-- <input type="text" name="hear_us" class="required" value="" id="hear_us_other" style="width:270px;visibility: hidden;" /> -->
   </td></tr></table></td>
   </tr>
@@ -362,13 +362,13 @@
     	<label for="PACKAGE">Choose Your Package  <span>*</span></label></td><td><span id="spryselect3">
     	<select onchange="copy();" name="PACKAGE" class="required" id="PACKAGE" style="width:270px;">
     	  <option value="-1">Choose...</option>
-    	  <option value="3d2wd0">3 days Lectures + 2 workshops = 1,100$</option>
-    	  <option value="3d1wd0">3 days + 1 workshop = 850$</option>
-    	  <option value="3d0wd0">3 days Lectures = 500$</option>
-    	  <option value="0d1wd0">1 Workshop = 500$</option>
-    	  <option value="1d0wd1">Day 1 Lectures = 200$</option>
+    	  <option value="3d2wd0">3 days Lectures + 2 workshops = KD 230 (820$)</option>
+    	  <option value="3d1wd0">3 days + 1 workshop = KD 130 (460$)</option>
+    	  <option value="3d0wd0">3 days Lectures = KD 30 (110$)</option>
+    	  <option value="0d1wd0">1 Workshop = KD 110 (390$)</option>
+    	<!--  <option value="1d0wd1">Day 1 Lectures = 200$</option>
     	  <option value="1d0wd2">Day 2 Lectures = 200$</option>
-    	  <option value="1d0wd3">Day 3 Lectures = 200$</option>
+    	  <option value="1d0wd3">Day 3 Lectures = 200$</option> -->
   	  </select>
     	<span class="selectInvalidMsg">Please select a valid item.</span><span class="selectRequiredMsg">Please select an item.</span></span>    	  <div id="label"></div>
 
@@ -445,20 +445,20 @@
         <tr>
           <td>
           <label>
-            <input type="radio" onclick="" name="MorningW" value="Younes Duret (Product)" id="MorningW_0" class="radioBtn" />
-            Younes Duret (Product)</label><br />
+            <input type="radio" onclick="" name="MorningW" value="Tarek Atrissi (Type)" id="MorningW_0" class="radioBtn" />
+            Tarek Atrissi (Type)</label><br />
 			<label>
-            <input type="radio" name="MorningW" value="Nedda & Gisbert (Jewelry)" id="MorningW_2" class="radioBtn" />
-            Nedda & Gisbert (Jewelry)</label><br />
+            <input type="radio" name="MorningW" value="Kashida (Product)" id="MorningW_2" class="radioBtn" />
+            Kashida (Product)</label><br />
 			<label>
-            <input type="radio" name="MorningW" value="Manar Moursi (Architecture)" id="MorningW_3" class="radioBtn" />
-            Manar Moursi (Architecture)</label><br />
+            <input type="radio" name="MorningW" value="Nur Kaoukji (Fashion)" id="MorningW_3" class="radioBtn" />
+            Nur Kaoukji (Fashion)</label><br />
 			<label>
-            <input type="radio" name="MorningW" value="Haleh Anvari (Photography)" id="MorningW_4" class="radioBtn" />
-            Haleh Anvari (Photography)</label><br />
+            <input type="radio" name="MorningW" value="Alfred Tarazi (Mixed Media)" id="MorningW_4" class="radioBtn" />
+            Alfred Tarazi (Mixed Media)</label><br />
 			<label>
-            <input type="radio" name="MorningW" value="Asad Faulwell (Arabesque Mixed Media)" id="MorningW_6" class="radioBtn" />
-            Asad Faulwell (Arabesque Mixed Media)</label><br /></td>
+            <input type="radio" name="MorningW" value="Rana Salam (Branding)" id="MorningW_6" class="radioBtn" />
+            Rana Salam (Branding)</label><br /></td>
           </td>
         </tr>
       </table>
@@ -471,17 +471,20 @@
         <tr>
           <td>
           <label>
-            <input type="radio" name="AfternoonW" value="Alfred Tarazi (Mixed Media)" id="AfternoonW_0" class="radioBtn" />
-            Alfred Tarazi (Mixed Media)</label><br />
+            <input type="radio" name="AfternoonW" value="Osama Esid (Photography)" id="AfternoonW_0" class="radioBtn" />
+            Osama Esid (Photography)</label><br />
 			<label>
-            <input type="radio" name="AfternoonW" value="Pascal Zoghbi (Arabic Type)" id="AfternoonW_1" class="radioBtn" />
-            Pascal Zoghbi (Arabic Type)</label><br />
+            <input type="radio" name="AfternoonW" value="Pascal Zoghbi (Type)" id="AfternoonW_1" class="radioBtn" />
+            Pascal Zoghbi (Type)</label><br />
 			<label>
-            <input type="radio" name="AfternoonW" value="Osama El Sid (Photography technique)" id="AfternoonW_2" class="radioBtn" />
-            Osama El Sid (Photography technique)</label><br />
+            <input type="radio" name="AfternoonW" value="Younes Duret (Product)" id="AfternoonW_2" class="radioBtn" />
+            Younes Duret (Product)</label><br />
 			<label>
-            <input type="radio" name="AfternoonW" value="Sh. Alanoud Al Sabah (Jewelry) (20th) + WTD MAG (21st-22nd) only" id="AfternoonW_4" class="radioBtn" />
-            Sh. Alanoud Al Sabah(Jewelry)(20th) + WTD MAG(21st-22nd) only</label><br /></td>
+            <input type="radio" name="AfternoonW" value="Elseed & WTD magazine & Archicamp (Graffiti & Architecture)" id="AfternoonW_4" class="radioBtn" />
+            Elseed &amp; WTD magazine &amp; Archicamp (Graffiti &amp; Architecture)</label><br />
+            <label>
+            <input type="radio" name="AfternoonW" value="Plus Aziz (Trend Spotting)" id="AfternoonW_5" class="radioBtn" />
+            Plus Aziz (Trend Spotting)</label><br /></td>
         </tr>
       </table></div>    
     </td>
