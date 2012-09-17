@@ -7,7 +7,7 @@
     document.getElementById('page-nav-story').style.visibility = 'hidden';
     document.getElementById('page-nav-mission').style.visibility = 'hidden';
 	document.getElementById('c2012kuwait').style.visibility = 'hide';
-	document.getElementById('c2012dubai').style.visibility = 'show'; " style="	text-decoration:none;" href="c2012dubai.php"><div class="page-nav-hover"
+	document.getElementById('c2012dubai').style.visibility = 'show'; " style="	text-decoration:none;" href="#"><div class="page-nav-hover"
     
     >
                 <div class="page-nav-node"></div>
@@ -20,9 +20,9 @@
 </td>
                 
                 
-            	<td height="30" width="180" style="vertical-align:middle;"><a onClick="document.getElementById('c2012kuwait').style.visibility = 'show';
+            	<td height="30" width="180" style="vertical-align:middle;"><a /*onClick="document.getElementById('c2012kuwait').style.visibility = 'show';
 document.getElementById('c2012dubai').style.visibility = 'hide';                
-" style="text-decoration:none;" href="c2012kuwait.php"><div class="page-nav-hover">
+"*/ style="text-decoration:none;" href="c2012kuwait.php"><div class="page-nav-hover">
                 <div class="page-nav-node"></div>
                 <div class="page-nav-text">Kuwait</div>
                
@@ -71,28 +71,13 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
     	<table width="140" border="0" align="left" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">Speakers</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">Speakers</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#workshops">workshops</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#workshops">workshops</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#schedule">Schedule</a></td>
-  			</tr>
-		</table>
-</td>
-
-	<td width="175" height="90" style="vertical-align:top;">
-    	<table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
-
-  			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
-  			</tr>
-  			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
-  			</tr>
-  			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#schedule">Schedule</a></td>
   			</tr>
 		</table>
 </td>
@@ -101,13 +86,28 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
     	<table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
+  			</tr>
+		</table>
+</td>
+
+	<td width="175" height="90" style="vertical-align:top;">
+    	<table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
+
+  			<tr>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
+  			</tr>
+  			<tr>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
+  			</tr>
+  			<tr>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>
@@ -116,13 +116,13 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
     	<table width="140" border="0" align="right" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>
@@ -154,10 +154,10 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
                 </td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">Speakers</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">Speakers</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#workshops">workshops</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#workshops">workshops</a></td>
   			</tr>
   			<tr>
     			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve lightwindow" href="img/schadule-large.jpg">Schedule</a></td>
@@ -176,13 +176,13 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
                 </td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">Comming Soon</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">Comming Soon</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>
@@ -198,13 +198,13 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
                 </td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">Comming Soon</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">Comming Soon</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>
@@ -220,13 +220,13 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
                 </td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">Comming Soon</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">Comming Soon</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012.php#">&nbsp;</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>

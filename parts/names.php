@@ -28,9 +28,19 @@ $c2010workshops=0;
 $c2010entertainment=0;
 
 $c2012nav=0;
-$c2012header=0;
-$c2012speakers=0;
-$c2012workshops=0;
+
+$c2012dubai=0;
+$c2012kuwait=0;
+
+$c2012dubainav=0;
+$c2012dubaiheader=0;
+$c2012dubaispeakers=0;
+$c2012dubaiworkshops=0;
+
+$c2012kuwaitnav=0;
+$c2012kuwaitheader=0;
+$c2012kuwaitspeakers=0;
+$c2012kuwaitworkshops=0;
 
 
 $ourstorynav=0;
@@ -66,5 +76,7 @@ $form04foot=0;
 
 $thankureg=0;
 $terms=0;
+
+
 
 ?>

@@ -3,7 +3,7 @@
 <!--menumain -->                    <li><a href="ourstory.php">our story</a></li>  
 <!--menumain -->                	<li><a class="parent" href="conferences.php">conferences</a> 
 <!--menumain -->                    	<ul class="submenu">  
-<!--menumain -->							<li><a href="c2012.php">2012</a></li> 
+<!--menumain -->							<li><a href="c2012kuwait.php">2012</a></li> 
 <!--menumain -->                        	<li><a href="c2010.php">2010</a></li>  
 <!--menumain -->                   		</ul>  
 <!--menumain -->                </li>  
