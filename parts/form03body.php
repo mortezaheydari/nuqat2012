@@ -337,7 +337,8 @@
     <td>	
     	<table>
         	<tr>
-            	<td width="180">    
+            	<td width="180">  
+                
    	  <label for="hear">How did you hear about us?  <span>*</span></label></td><td><span id="spryselect2">
    	  <select name="hear" id="hear" class="required" style="width:270px;">
    	    <option value="-1">Choose one...</option>
@@ -346,8 +347,9 @@
    	    <option value="I'm your follower on social media">I'm your follower on social media</option>
    	    <option value="read about you in a publication">read about you in a publication</option>
    	    <option value="recommended by a friend">recommended by a friend</option>
-   	    <option value="0">other</option>
+   	    <option value="other">other</option>
  	    </select>
+        <input id="other_reason" name="hear" type="text" placeholder="Other way" style="width:270px;" />
    	  <span class="selectInvalidMsg">Please select a valid item.</span><span class="selectRequiredMsg">Please select an item.</span></span>   	    <!-- <input type="text" name="hear_us" class="required" value="" id="hear_us_other" style="width:270px;visibility: hidden;" /> -->
   </td></tr></table></td>
   </tr>

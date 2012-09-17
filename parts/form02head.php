@@ -314,4 +314,33 @@ function copy() {
 
 
 </script>
+
+<script src="http://code.jquery.com/jquery-1.8.1.js"></script>
+
+<script type="text/javascript">
+		$(document).ready(function(e) {
+        $(function(){
+            //initially hide the textbox
+            $("#other_reason").hide();
+            $('#hear').change(function() {
+              if($(this).find('option:selected').val() == "other"){
+                $("#other_reason").show();
+              }else{
+                $("#other_reason").hide();
+              }
+            });
+            $("#other_reason").keyup(function(ev){
+                  var othersOption = $('#hear').find('option:selected');
+                  if(othersOption.val() == "other"){
+                    ev.preventDefault();
+                    //change the selected drop down text
+                    $(othersOption).html($("#other_reason").val()); 
+
+
+                  } 
+            });
+        });            
+        });
+
+    </script>  
 </head>
