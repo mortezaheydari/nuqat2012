@@ -36,7 +36,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">The reappearance and
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">The reappearance and
 disappearance of Tradition
 In Modern Arab Art</span></td>
   </tr>

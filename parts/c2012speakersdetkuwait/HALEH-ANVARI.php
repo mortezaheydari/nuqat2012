@@ -44,7 +44,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">Replacing Lost Pixels</span></td>
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">Replacing Lost Pixels</span></td>
   </tr>
 </table>
 
@@ -62,7 +62,7 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">Replacing Lost Pixels
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Replacing Lost Pixels
                     </span></td>
                   </tr>
                                     <tr>

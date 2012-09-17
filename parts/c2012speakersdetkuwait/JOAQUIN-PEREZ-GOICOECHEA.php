@@ -36,7 +36,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">Why Not Arabesque</span><br/><span style="color:#13969E;line-height:12pt;font-size:8pt;">Speaking with Dr.Abulhasan</span></td>
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">Why Not Arabesque</span><br/><span style="color:#E94F1B;line-height:12pt;font-size:8pt;">Speaking with Dr.Abulhasan</span></td>
   </tr>
 </table>
 

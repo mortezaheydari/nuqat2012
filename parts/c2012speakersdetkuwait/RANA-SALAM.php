@@ -58,7 +58,7 @@ Council England, and Paul Smith.
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">'Lost & Found': Making Islamic Art Cool</span></td>
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">'Lost & Found': Making Islamic Art Cool</span></td>
   </tr>
 </table>
 
@@ -76,7 +76,7 @@ Council England, and Paul Smith.
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">'Cut & Paste': Creating Contemporary Products from Traditional Islamic Art</span></td>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">'Cut & Paste': Creating Contemporary Products from Traditional Islamic Art</span></td>
                   </tr>
                                     <tr>
                     <td><p>Extracting visual elements from your surroundings, be it Arabic/Islamic geometric shapes & letterform, we are to bring all our treasures and learn how to manipulate them and reinvent them into other forms and usages. With the use of digital cameras, computer graphics and final 3D mock ups, this is a chance to find out how its all done. Be it a new design for a pair of Converse to your everyday Kitchen towel.</p>

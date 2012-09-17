@@ -42,7 +42,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">Arabesque, Identity
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">Arabesque, Identity
 & Arabic Typography</span></td>
   </tr>
 </table>
@@ -61,7 +61,7 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">Arabic Lettering &amp; Type Design</span><br/><span style="color:#13969E;line-height:12pt;font-size:8pt;">Conducting with NADINE CHAHINE</span></td>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Arabic Lettering &amp; Type Design</span><br/><span style="color:#E94F1B;line-height:12pt;font-size:8pt;">Conducting with NADINE CHAHINE</span></td>
                   </tr>
                                     <tr>
                     <td><p>Between the art of classic Arabic calligraphy and the contemporary digital Arabic type design, lies the discipline of Arabic lettering, a task often in the hand of graphic designers in the context of branding, logo design and masthead design. Day 1 of this workshop will focus on the Arabic word and explore in theory and practice the creative possibilities of Arabic lettering.</p>

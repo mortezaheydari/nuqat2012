@@ -44,7 +44,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">Contemporary Out of Archaic</span></td>
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">Contemporary Out of Archaic</span></td>
   </tr>
 </table>
 
@@ -62,7 +62,7 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">Square Kufic / Arabesque Patterns</span></td>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Square Kufic / Arabesque Patterns</span></td>
                   </tr>
                                     <tr>
                     <td><p>The workshop will grant the participants the comprehension of Arabic Kufic patterns and will enable them to create their own Kufic patterns. The workshop will introduce the three main Kufic calligraphic styles: Archaic Kufic, Floral Modern Kufic and Square Kufic, and then it will move on to become a Hands-On drawing session of arabesque patterns. Participants will create arabesque typographic patterns from both the Floral and Square Kufic structures. Besides acquiring the technique of drawing Kufic, participants will be able to decipher Geometric Kufic patterns into words and sentences instead of perceiving them as abstract shapes.</p>

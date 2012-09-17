@@ -62,7 +62,7 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">Collapsible Structure (2 Day Workshop 21-22)</span></td>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Collapsible Structure (2 Day Workshop 21-22)</span></td>
                   </tr>
                                     <tr>
                     <td><p> Nomadic settlements in the desert. The tent is a transient structure that serves the purpose of shelter from the environment, while being demountable and transportable to match the needs of nomadic tribes in search of a more hospitable spot in the desert. Design a collapsible and portable structure for a purpose/a use/ a state - a place to drink coffee - a place to take a nap - a place to be alone in public - a place that fits a conversation Materials Notched cardboard without glue Properties The final space can be taken apar t and r eassembled whenever needed It can be carried by one person </p>

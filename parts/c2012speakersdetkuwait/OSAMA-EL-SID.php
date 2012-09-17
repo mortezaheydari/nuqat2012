@@ -60,7 +60,7 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">Print Anything Anywhere</span></td>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Print Anything Anywhere</span></td>
                   </tr>
                                     <tr>
                     <td><p>If you are a photographer, designer, mixed media artist or anyone just interested in experimenting, this workshop is the right one for you. With Osama you will explore an alternative method to develop and print in a completely economical way and more surprisingly, it can be done anywhere.

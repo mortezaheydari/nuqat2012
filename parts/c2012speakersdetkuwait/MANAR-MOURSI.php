@@ -60,7 +60,7 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">Constructing Memory Maps of the City</span></td>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Constructing Memory Maps of the City</span></td>
                   </tr>
                                     <tr>
                     <td><p>How can we map Dubai in non-visual terms? This workshop will aim to challenge the traditional methods of cartography and find new ways to see and represent the city.  Mapping, typically, a visual representation tool will be contested. We will find ways to symbolically depict and highlight the relationships between elements of space through non-visual maps. We will look to translate spatial experiences that are non- visual to non-visual representation.  How do you represent smell with abstracted smell? And how do you represent memory in this transient city? <br />

@@ -44,7 +44,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">Chroub o Choof
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">Chroub o Choof
 (Drink &amp; Look)</span></td>
   </tr>
 </table>
@@ -63,7 +63,7 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#13969E;line-height:12pt;font-size:15pt;">Chrob ou Chouf (drink and look)
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Chrob ou Chouf (drink and look)
 </span></td>
                   </tr>
                                     <tr>

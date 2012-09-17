@@ -35,7 +35,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#13969E;line-height:12pt;font-size:12pt;">Got Coffee?</span></td>
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">Got Coffee?</span></td>
   </tr>
 </table>
 
