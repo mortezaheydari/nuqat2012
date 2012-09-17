@@ -56,7 +56,7 @@ td { padding:0 0 0px 50px;font-family: 'nuqat';font-weight:bolder;font-size:0.8e
 </head>
 
 <body>
-<table height="800" style="background-color:#fff;background:url(img/etickets/topheader.png) top center no-repeat; back" width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+<table height="800" style="background-color:#fff;background:url(img/etickets/topheader.png) top center no-repeat;" width="450" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td style="text-align:center;padding-top:200px;padding-left:0;"><img src="img/etickets/nuqatheader.png" /></td>
   </tr>
@@ -71,7 +71,7 @@ td { padding:0 0 0px 50px;font-family: 'nuqat';font-weight:bolder;font-size:0.8e
   </tr>
   <tr>
     <td>MOBILE: <?php echo $row_ticket['Mobile']; ?></td>
-  </tr>
+  </tr>  
   <tr>
     <td>&nbsp;</td>
   </tr>

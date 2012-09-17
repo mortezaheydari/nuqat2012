@@ -437,30 +437,36 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 
 
 
-<table height="800" style="background-color:#fff;" width="450" border="0" align="center" cellpadding="0" cellspacing="0">
+<table height="800" style="background-color:#fff;background:url(img/etickets/topheader.png) top center no-repeat;" width="450" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="text-align:center;"><img src="img/etickets/topheader.png" width="238" height="119" /></td>
-  </tr>
-  <tr>
-    <td style="text-align:center;padding-top:10px;"><img src="img/etickets/nuqatheader.png" width="159" height="174" /></td>
+    <td style="text-align:center;padding-top:200px;"><img src="img/etickets/nuqatheader.png" width="159" height="174" /></td>
   </tr>
   <tr>
     <td height="40">&nbsp;</td>
   </tr>
   <tr>
-    <td style="padding:5px 0 5px 50px;font-family: 'nuqat';">FULL NAME: <?php echo $_POST['FNAME']." ".$_POST['LNAME']; ?></td>
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">FULL NAME: <?php echo $_POST['FNAME']." ".$_POST['LNAME']; ?></td>
   </tr>
   <tr>
-    <td style="padding:5px 0 5px 50px;font-family: 'nuqat';">EMAIL: <?php echo $_POST['EMAIL']; ?></td>
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">EMAIL: <?php echo $_POST['EMAIL']; ?></td>
   </tr>
   <tr>
-    <td style="padding:5px 0 5px 50px;font-family: 'nuqat';">MOBILE: <?php echo $_POST['PHONE']; ?></td>
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">MOBILE: <?php echo $_POST['PHONE']; ?></td>
   </tr>
+  <tr>
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">I live in <?php echo $_POST['live_in']; ?></td>
+  </tr>
+  <tr>
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">Address: <?php echo $_POST['address']; ?></td>
+  </tr>
+  <tr>
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">Heard about us: <?php echo $_POST['hear']; ?></td>
+  </tr>      
   <tr>
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td style="padding:5px 0 5px 50px;font-family: 'nuqat';">PACKAGE: <?php 
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">PACKAGE: <?php 
   	if ($_POST['PACKAGE'] == "3d2wd0") {
 		echo "Package: 3 days Lectures + 2 workshops = 1,100$";
 	}  elseif ($_POST['PACKAGE'] == "3d1wd0") {
@@ -482,7 +488,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td style="padding:5px 0 5px 50px;font-family: 'nuqat';">MORNING WORKSHOP: <?php 
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">MORNING WORKSHOP: <?php 
 	
 	
 	if (isset($_POST['MorningW'])) {
@@ -494,7 +500,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 	?></td>
   </tr>
   <tr>
-    <td style="padding:5px 0 5px 50px;font-family: 'nuqat';">AFTERNOON WORKSHOP: <?php 
+    <td style="padding:5px 0 5px 0;font-family: 'nuqat';">AFTERNOON WORKSHOP: <?php 
 	
 	
 	if (isset($_POST['AfternoonW'])) {

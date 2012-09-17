@@ -13,7 +13,7 @@ Limited Tickets!--></td>
     <td style="padding-top:5px;padding-bottom:5px; padding-left:10px;text-align:left;">IN ASSOCIATION WITH</td>
   </tr>
   <tr>
-    <td style="padding-top:5px;padding-bottom:5px;text-align:center;"><a href="http://www.difc.ae/" target="_blank"><img src="img/c2012/sponsors/darathar.jpg" width="217" height="100" /></a></td>
+    <td style="padding-top:5px;padding-bottom:5px;text-align:center;"><a href="#" target="_blank"><img src="img/c2012/sponsors/darathar.jpg" width="217" height="100" /></a></td>
   </tr>
   <tr>
     <td height="40">&nbsp;</td>
