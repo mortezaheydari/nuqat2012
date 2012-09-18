@@ -54,7 +54,7 @@
         </td></tr>
 
     	<tr ><td>
-		<img src="img/c2012/sponsors/DCAA.jpg" height="100" width="300" align="right" style="margin-bottom:5px; visibility:hidden"/>
+		<img src="img/c2012/sponsorskuwait/nuqat_patronage_logo.jpg" height="100" width="300" align="right" style="margin-bottom:5px;"/>
     
 		</td></tr>
         <tr><td>
