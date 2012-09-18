@@ -73,10 +73,10 @@ td { padding:0 0 0px 50px;font-family: 'nuqat';font-weight:bolder;font-size:0.8e
     <td>MOBILE: <?php echo $row_ticket['Mobile']; ?></td>
   </tr>
   <tr>
-    <td>Live In: <?php echo $row_ticket['live_in']; ?></td>
+    <td>LIVE IN: <?php echo $row_ticket['live_in']; ?></td>
   </tr>  
   <tr>
-    <td>Address: <?php echo $row_ticket['address']; ?></td>
+    <td>ADDRESS: <?php echo $row_ticket['address']; ?></td>
   </tr>    
   <tr>
     <td>&nbsp;</td>
