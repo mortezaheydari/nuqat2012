@@ -65,64 +65,64 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
     
     <!--  ---------------------------------------v  -->
     
-    	<table width="710" height="120" border="0" align="center" cellpadding="0" cellspacing="0" style="vertical-align:top; margin-top:30px;">
+    	<table width="730" height="120" border="0" align="center" cellpadding="0" cellspacing="0" style="vertical-align:top; margin-top:30px;">
         	<tr>
-	<td width="175" height="90" style="vertical-align:top;">
-    	<table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
+	<td width="180" height="90" style="vertical-align:top;">
+    	<table width="180" border="0" align="center" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>
 
-	<td width="175" height="90" style="vertical-align:top;">
-    	<table width="140" border="0" align="left" cellpadding="0" cellspacing="0">
+	<td width="180" height="90" style="vertical-align:top;">
+    	<table width="180" border="0" align="left" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">Speakers</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">Speakers</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#workshops">workshops</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#workshops">workshops</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#schedule">Schedule</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#schedule">Schedule</a></td>
   			</tr>
 		</table>
 </td>
 
-	<td width="175" height="90" style="vertical-align:top;">
-    	<table width="140" border="0" align="center" cellpadding="0" cellspacing="0">
+	<td width="180" height="90" style="vertical-align:top;">
+    	<table width="180" border="0" align="center" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>
 
-	<td width="175" height="90" style="vertical-align:top;">
-    	<table width="140" border="0" align="right" cellpadding="0" cellspacing="0">
+	<td width="180" height="90" style="vertical-align:top;">
+    	<table width="180" border="0" align="right" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
+    			<td height="30" width="180" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="c2012kuwait.php#">&nbsp;</a></td>
   			</tr>
 		</table>
 </td>
