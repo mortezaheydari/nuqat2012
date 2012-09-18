@@ -2,13 +2,13 @@
 
 <table width="360" border="0" align="center" cellpadding="0" cellspacing="0">
 			  <tr>
-			    <td width="135" style="vertical-align:top;"><img src="img/c2012/speakers/WTD-MAG-WORKSHOP.jpg" />
+			    <td width="135" style="vertical-align:top;"><img src="img/c2012/speakers/EL-SEED.jpg" />
 			      <table width="135" border="0" cellspacing="0" cellpadding="0">
 			        <tr>
-			          <td><p><strong>WTD MAGAZINE</strong></p></td>
+			          <td><p><strong>EL SEED</strong></p></td>
 		            </tr>
 			        <tr>
-			          <td><p style="color:#636362;">Interactive Design Magazine</p></td>
+			          <td><p style="color:#636362;">Grafitti artist</p></td>
 		            </tr>
 	            </table></td>
 			    <td width="215" style="vertical-align:top;padding-left:10;">
@@ -17,9 +17,9 @@
     <td>  <h3>BIO</h3></td>
   </tr>
   <tr>
-    <td>An interactive architecture and design magazine that will be launched in 2012.<br />
+    <td>TBD<br />
       <br /><br />
-      <a class="nav-twotwelve" target="_blank" href="http://wtdmag.tumblr.com/">wtdmag.tumblr.com</a><br /></td>
+      <br /></td>
   </tr>
 </table>
 
@@ -63,10 +63,10 @@
                   </tr>
                   <tr>
                     <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Graffiti & Architecture</span><br/>
-                    <span style="color:#E94F1B;line-height:12pt;font-size:8pt;">Conducting with EL SEED & DALAL AL BANNAI</span></td>
+                    <span style="color:#E94F1B;line-height:12pt;font-size:8pt;">Conducting with DALAL AL BANNAI & WTD MAGAZINE</span></td>
                   </tr>
                                     <tr>
-                    <td><p>TBD</p>
+                    <td><p> TBD</p>
                       <p><br />
                       </p></td>
                   </tr>

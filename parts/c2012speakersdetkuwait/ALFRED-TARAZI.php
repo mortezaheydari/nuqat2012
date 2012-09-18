@@ -63,7 +63,7 @@
                     <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Being Arab</span></td>
                   </tr>
                                     <tr>
-                    <td><p>TBA</p>
+                    <td><p>Throughout the workshop we will try to determine what it means to be Arab today, and what the challenges ahead are. Working on a group and individual level our aim will be to understand what creates in each person a sense of identity, what generates it, and how we are using this notion to create the ideas that will shape the future of the Arab World. Each participant will be invited to present his story and to reflect on it. Those stories can come from family backgrounds, or from their professional/personal life, or a combination of both. As raw material, participants will present ten images that represent them the most, those images can serve as illustrations to their story... we will then proceed to work with those images to create a visual mapping that can represent each and every participant’s engagement towards what it means to be Arab today.</p>
                       <p><br />
                       </p></td>
                   </tr>

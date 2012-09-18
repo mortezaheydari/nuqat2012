@@ -14,7 +14,7 @@
     <td style="padding-top:5px;"><strong>SULAYMAN AL BASSAM</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>Theatre Director</p></td>
   </tr>
 </table>
 </td>

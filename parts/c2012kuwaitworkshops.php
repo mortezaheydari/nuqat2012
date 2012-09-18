@@ -38,7 +38,7 @@ Interactive workshops to be conducted by the speakers themselves. The maximum wo
     <td style="padding-top:5px;"><strong> TAREK ATRISSI</strong></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;">Graphic Designer</td>
+    <td style="padding-top:5px;color:#636362;">Graphic/Type Designer</td>
   </tr>
 </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px; visibility:hidden;">
@@ -91,7 +91,7 @@ design.</td>
             <tr><td style="vertical-align:top;">
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/OSAMA-EL-SID.php" class="lightwindow"><img src="img/c2012/speakers/OSAMA-EL-SID.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/OSAMA-EL-SID.php" class="lightwindow"><img src="img/c2012/speakers/OSAMA-EL-SID.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>OSAMA ESID</strong></td>
@@ -187,7 +187,8 @@ The whole point of this workshop is to introduce a technique that is very econom
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 7: <br/>
-                Square Kufic / Arabesque Patterns</h3></td>
+                Square Kufic / Arabesque Patterns</h3>
+              <p>&nbsp;</p></td>
           </tr>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
@@ -243,7 +244,7 @@ The whole point of this workshop is to introduce a technique that is very econom
     <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/nur-kaoukji.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/nur-kaoukji.jpg" /></a></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;"><strong>NUR KAOUKJ</strong></td>
+    <td style="padding-top:5px;"><strong>NUR KAOUKJI</strong></td>
   </tr>
   <tr>
     <td style="padding-top:5px;color:#636362;"><p>Fashion Designer<br/> 
@@ -373,7 +374,7 @@ comfortable and ergonomic.</td>
     <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;">Workshop Description</span></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;">-</td>
+    <td style="padding-top:5px;color:#636362;">Throughout the workshop we will try to determine what it means to be Arab today, and what the challenges ahead are. Working on a group and individual level our aim will be to understand what creates in each person a sense of identity, what generates it, and how we are using this notion to create the ideas that will shape the future of the Arab World. Each participant will be invited to present his story and to reflect on it. Those stories can come from family backgrounds, or from their professional/personal life, or a combination of both. As raw material, participants will present ten images that represent them the most, those images can serve as illustrations to their story... we will then proceed to work with those images to create a visual mapping that can represent each and every participant’s engagement towards what it means to be Arab today.</td>
   </tr>
 </table>
         </td>
@@ -385,41 +386,57 @@ comfortable and ergonomic.</td>
             <tr><td style="vertical-align:top;">
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/WTD-MAG-WORKSHOP.php" class="lightwindow"><img src="img/c2012/speakers/WTD-MAG-WORKSHOP.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/EL-SEED.php" class="lightwindow"><img src="img/c2012/speakers/EL-SEED.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
-                <td style="padding-top:5px;"><strong>WTD MAGAZINE</strong></td>
+                <td style="padding-top:5px;"><strong>EL SEED</strong></td>
               </tr>
               <tr>
-                <td style="padding-top:5px;color:#636362;">Interactive Design Magazine</td>
+                <td style="padding-top:5px;color:#636362;">Grafitti artist</td>
               </tr>
             </table>
+            
+            <table width="135" border="0" align="left" cellpadding="0" cellspacing="0" style="padding-top:10px; ">
+  <tr>
+    <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;"><br/><br/>Workshop Description</span></td>
+  </tr>
+  <tr>
+    <td style="padding-top:5px;color:#636362;"> -</td>
+  </tr>
+</table>
 </td>
 
 
 <td style="vertical-align:top;">
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/archofkuwait.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/dalal-al-bannai.php" class="lightwindow"><img src="img/c2012/speakers/dalal-al-bannai.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>ArchOfKuwait</strong></td>
               </tr>
               <tr>
-                <td style="padding-top:5px;color:#636362;"> </td>
+                <td style="padding-top:5px;color:#636362;"> Architect & Founder of
+Archicamp Kuwait</td>
+              </tr>
+            </table>
+            
+            <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
+              <tr>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/WTD-MAG-WORKSHOP.php" class="lightwindow"><img src="img/c2012/speakers/WTD-MAG-WORKSHOP.jpg" alt="" width="135px" height="135px" /></a></td>
+              </tr>
+              <tr>
+                <td style="padding-top:5px;"><strong>WTD MAGAZINE</strong></td>
+              </tr>
+              <tr>
+                <td style="padding-top:5px;color:#636362;">Interarctive architecture
+magazine</td>
               </tr>
             </table>
 </td>
 
 </tr></table>
-<table width="270" border="0" align="left" cellpadding="0" cellspacing="0" style="padding-top:10px; ">
-  <tr>
-    <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;">Workshop Description</span></td>
-  </tr>
-  <tr>
-    <td style="padding-top:5px;color:#636362;"> -</td>
-  </tr>
-</table>
+
 
         </td>
       </tr>
@@ -479,7 +496,8 @@ comfortable and ergonomic.</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 10: <br/>
-               Trend Spotting 101: The Cultural Forensics Workshop</h3></td>
+               Trend Spotting 101: The Cultural Forensics Workshop</h3>
+              <p>&nbsp;</p></td>
           </tr>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
