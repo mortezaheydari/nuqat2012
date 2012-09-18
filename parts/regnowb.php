@@ -1,1 +1,1 @@
-<!--<div style="margin-top:5px;" class="register-now"><a href="#">REGISTER NOW</a></div>-->
+<div style="margin-top:5px;" class="register-now"><a href="payment.php">REGISTER NOW</a></div>

@@ -134,9 +134,9 @@ comfortable and ergonomic.</td>
       
       
       <tr>
-        <td height="100" style="vertical-align:top;">        <?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td height="100" style="vertical-align:top;">        <?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
         <td style="vertical-align:top;border-left:solid 1px #13969E;">&nbsp;</td>
-        <td style="vertical-align:top;">        <?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td style="vertical-align:top;">        <?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
       </tr>
       <tr>
         <td style="vertical-align:top;"><table width="300">
@@ -257,9 +257,9 @@ and sentences instead of perceiving them as abstract shapes.</td>
         </td>
       </tr>
       <tr>
-        <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td height="100" style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
         <td style="vertical-align:top;border-left:solid 1px #13969E;">&nbsp;</td>
-        <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
       </tr>
       <tr>
         <td style="vertical-align:top;"><table width="300">
@@ -371,9 +371,9 @@ The whole point of this workshop is to introduce a technique that is very econom
         </td>
       </tr>
       <tr>
-        <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td height="100" style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
         <td style="vertical-align:top;border-left:solid 1px #13969E;">&nbsp;</td>
-        <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
       </tr>
       <tr>
         <td style="vertical-align:top;"><table width="300">
@@ -485,9 +485,9 @@ has an interest in the city.</td>
       
       
       <tr>
-        <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td height="100" style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
         <td style="vertical-align:top;border-left:solid 1px #13969E;">&nbsp;</td>
-        <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
       </tr>
       
       
@@ -608,7 +608,7 @@ creations of Gold and Pearl.</td>
       
       
       <tr>
-        <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td height="100" style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
         <td style="vertical-align:top;border-left:solid 1px #13969E;">&nbsp;</td>
         <td style="vertical-align:top;">&nbsp;</td>
       </tr>
@@ -735,9 +735,9 @@ It can be carried by one person</td>
       
       
       <tr>
-        <td id="schedule" height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td id="schedule" height="100" style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
         <td style="vertical-align:top;border-left:solid 1px #13969E;">&nbsp;</td>
-        <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
+        <td style="vertical-align:top;"><?php /*?><?php include('parts/regnowb.php');?><?php */?>&nbsp;</td>
       </tr>
       
       
