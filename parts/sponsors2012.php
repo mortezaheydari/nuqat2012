@@ -4,36 +4,38 @@
   
   <table width="730" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td><div class="headergray">OUR SPONSORS</div></td>
+    <td><div class="headergray">PLATINUM SPONSORS</div></td>
   </tr>
+  
   <tr>
     <td><table  style="margin-top:5px;" class="sponsors2012">
-<tr style="height:15px;">
-<td style="text-align:left; width:460px;padding:5px;"><strong style="font-size:9px">IN ASSOCIATION WITH</strong>
+    
+    <tr style="height:15px;">
+<td style="text-align:left; width:240px;padding:5px;"><span style="padding-top:5px;color:#636362; font-size:1.5em;">PLATINUM SPONSORS</span>
 </td>
 
 
 
-<td style="text-align:left; width:270px;padding:5px; border-right:thin solid #000"><strong style="font-size:9px">PLATINUM SPONSORS</strong>
-</td>
+<td style="text-align:left; width:270px;padding:5px; border-right:thin solid #000">&nbsp;</td>
 
 </tr>
-<td style="text-align:left; width:46
-0px;padding-left:5px; vertical-align:bottom">
+    <tr>
 
-    <a href="http://darmuseum.org.kw/english/" target="_blank"><img width="251px" height="120px" src="img/c2012/sponsorskuwait/dar-alathat.jpg" /></a>                   
+<td style="text-align:left; width:240px;padding-left:5px; vertical-align:bottom">
+
+    <a href="http://www.burgan.com" target="_blank"><img width="243px" height="120px" src="img/c2012/sponsorskuwait/burgan.jpg" /></a>                   
                     
-<a href="http://americani.wordpress.com/" target="_blank"><img width="153px" height="120px" src="img/c2012/sponsorskuwait/amricani.jpg" /></a>
+
 
 </td>
 
 
 
 
-<td style="text-align:left;  width:270px;padding-right:5px; border-left:thin solid #000;  border-right:thin solid #000">
+<td style="text-align:left;  width:270px;padding-right:5px;  border-right:thin solid #000">
 
 
-    <a href="http://www.burgan.com" target="_blank"><img width="243px" height="120px" src="img/c2012/sponsorskuwait/burgan.jpg" /></a>
+    
  
 
 </td>
@@ -47,23 +49,23 @@
 <tr><td height="25" colspan="3"></td></tr>
 
 <tr style="height:15px;">
-<td style="text-align:left; width:446px;padding:5px;"><strong style="font-size:9px">MEDIA PARTNERS</strong>
+<td style="text-align:left; width:240px;padding:5px;"><span style="padding-top:5px;color:#636362;font-size:1.5em;">MEDIA PARTNERS</span>
 </td>
 
 
 
-<td style="text-align:left; width:270px;padding:5px; border-right:thin solid #000"><strong style="font-size:9px">SUPPORTERS</strong>
+<td style="text-align:left; width:270px;padding:5px; border-right:thin solid #000; border-left:thin solid #000;"><span style="padding-top:5px;color:#636362;font-size:1.5em; ">SUPPORTERS</span>
 </td>
 
 </tr>
 
-<td style="text-align:left; width:460px;padding-left:5px; vertical-align:bottom">
+<td style="text-align:left; width:240px;padding-left:5px; vertical-align:bottom">
 
     <a href="http://www.khaleejesque.com/" target="_blank"><img width="208px" height="120px" src="img/c2012/sponsorskuwait/khaleej.jpg" /></a>                   
 
-<a href="http://wtdmag.com/" target="_blank"><img width="114px" height="120px" src="img/c2012/sponsorskuwait/wtd.jpg" /></a>
 
-<a href="http://www.archofkuwait.com/" target="_blank"><img width="94px" height="120px" src="img/c2012/sponsorskuwait/archofkuwait.jpg" /></a>
+
+
 
 
 
@@ -75,8 +77,13 @@
 <td style="text-align:left;  width:270px;padding-right:5px; border-left:thin solid #000; border-right:thin solid #000">
 
 
-    <a href="http://www.mcdonaldsarabia.com/kuwait/en/home.html" target="_blank"><img width="243px" height="120px" src="img/c2012/sponsorskuwait/macdonalds.jpg" /></a>
+    <a href="http://www.mcdonaldsarabia.com/kuwait/en/home.html" target="_blank"><img width="124px" height="120px" src="img/c2012/sponsorskuwait/macdonalds.jpg" /></a>
+
+
+<a href="http://www.mcdonaldsarabia.com/kuwait/en/home.html" target="_blank"><img width="124px" height="120px" src="img/c2012/sponsorskuwait/dahan.jpg" /></a>
+    
  
+<a href="http://www.archofkuwait.com/" target="_blank"><img width="94px" height="120px" src="img/c2012/sponsorskuwait/archofkuwait.jpg" /></a>
 
 </td>
 
