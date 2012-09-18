@@ -1,6 +1,6 @@
 <table class="side-bar-table" style="position:relative;top:-1px;" width="235" border="0" cellspacing="0" cellpadding="0">        
   <tr>
-    <td style="padding-bottom:5px;text-align:center;"><div style="margin-left: 17px;" class="register-now"><a href="payment.php">REGISTER NOW</a></div></td>
+    <td style="padding-bottom:5px;text-align:center;"><!--<div style="margin-left: 17px;" class="register-now"><a href="payment.php">REGISTER NOW</a></div>--></td>
   </tr>
   <tr>
     <td style="padding-top:5px;padding-bottom:5px;text-align:center;">KUWAIT CONFERENCE 2012<!--<br />
