@@ -59,7 +59,7 @@
     <td style="padding-top:5px;"><strong>ElIE BOU JAMRA & MIRNA HAMADY</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>Co-founders at Kashida, Lebanese product design studio</p></td>
   </tr>
 </table></td>
   </tr>
@@ -93,7 +93,7 @@
     <td style="padding-top:5px;"><strong>JASSIM AL SADDAH</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>KUWAITI ARCHITECT, FOUNDER OF BAB NIMNIM </p></td>
   </tr>
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -104,7 +104,7 @@
     <td style="padding-top:5px;"><strong>KHALID SHAFAR</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>EMIRATI PRODUCT DESIGNER</p></td>
   </tr>
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -152,7 +152,7 @@
     <td style="padding-top:5px;"><strong>LAMYA GERGASH</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>Emirati Photographer and Artist</p></td>
   </tr>
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -174,7 +174,8 @@
     <td style="padding-top:5px;"><strong>NUR KAOUKJ</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>FASHION DESIGNER<br/> 
+    OWNER OF NOON.</p></td>
   </tr>
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
