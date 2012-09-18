@@ -97,7 +97,7 @@ function copy() {
 		document.getElementById("morning_box").style.height = '173px';
 		document.getElementById("morning_box").style.overflow = 'hidden';	
 		
-		document.getElementById("amount").value = 110000;
+		document.getElementById("amount").value = 82000;
 		
 		document.getElementById("afternoon_box").style.visibility = 'visible';
 		document.getElementById("afternoon_box").style.height = '131px';
@@ -129,7 +129,7 @@ function copy() {
 		document.getElementById("morning_box").style.height = '0px';
 		document.getElementById("morning_box").style.overflow = 'hidden';	
 		
-		document.getElementById("amount").value = 85000;
+		document.getElementById("amount").value = 46000;
 				
 		document.getElementById("afternoon_box").style.visibility = 'hidden';
 		document.getElementById("afternoon_box").style.height = '0px';
@@ -161,7 +161,7 @@ function copy() {
 		document.getElementById("morning_box").style.height = '0px';
 		document.getElementById("morning_box").style.overflow = 'hidden';	
 		
-		document.getElementById("amount").value = 50000;
+		document.getElementById("amount").value = 11000;
 				
 		document.getElementById("afternoon_box").style.visibility = 'hidden';
 		document.getElementById("afternoon_box").style.height = '0px';
@@ -192,7 +192,7 @@ function copy() {
 		document.getElementById("morning_box").style.height = '0px';
 		document.getElementById("morning_box").style.overflow = 'hidden';	
 		
-		document.getElementById("amount").value = 50000;
+		document.getElementById("amount").value = 39000;
 				
 		document.getElementById("afternoon_box").style.visibility = 'hidden';
 		document.getElementById("afternoon_box").style.height = '0px';
