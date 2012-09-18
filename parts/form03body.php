@@ -363,7 +363,7 @@
     	<select onchange="copy();" name="PACKAGE" class="required" id="PACKAGE" style="width:270px;">
     	  <option value="-1">Choose...</option>
     	  <option value="3d2wd0">3 days Lectures + 2 workshops = KD 230 (820$)</option>
-    	  <option value="3d1wd0">3 days + 1 workshop = KD 130 (460$)</option>
+    	  <option value="3d1wd0">3 days Lectures + 1 workshop = KD 130 (460$)</option>
     	  <option value="3d0wd0">3 days Lectures = KD 30 (110$)</option>
     	  <option value="0d1wd0">1 Workshop = KD 110 (390$)</option>
     	<!--  <option value="1d0wd1">Day 1 Lectures = 200$</option>

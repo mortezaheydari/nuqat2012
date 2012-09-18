@@ -18,7 +18,7 @@
 	$merchTxnRef = $_POST['merchTxnRef'];
 
 mysql_connect("shahinnuqat.db.8967694.hostedresource.com", "shahinnuqat", "Shahin@123") or die ('Error: ' . mysql_error());
-mysql_select_db("shahinnuqat");
+mysql_select_db("shahinnuqat"); 
 
 /*mysql_connect("morteza-pc", "shahin", "admin") or die ('Error: ' . mysql_error());
 mysql_select_db("nuqat2012");*/
@@ -28,7 +28,6 @@ $query = "INSERT INTO registeration (email, FName, LName, Mobile, live_in, addre
 
 
 mysql_query($query) or die ('Error: ' . mysql_error());
-
 
 
 ?>
