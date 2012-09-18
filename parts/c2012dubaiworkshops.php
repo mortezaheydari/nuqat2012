@@ -32,7 +32,7 @@ Interactive workshops to be conducted by the speakers themselves. The maximum wo
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/YOUNES-DURET.php" class="lightwindow"><img src="img/c2012/speakers/YOUNES-DURET.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/YOUNES-DURET.php" class="lightwindow"><img src="img/c2012/speakers/YOUNES-DURET.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;text-transform:uppercase;"><strong>YOUNES DURET</strong></td>
@@ -43,7 +43,7 @@ Interactive workshops to be conducted by the speakers themselves. The maximum wo
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px; visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>TAREK ATRISSI</strong></td>
@@ -93,7 +93,7 @@ comfortable and ergonomic.</td>
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
 
   <tr>
-    <td style="text-align:center;"><a href="parts/c2012speakersdet/ALFRED-TARAZI.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/ALFRED-TARAZI.jpg" /></a></td>
+    <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/ALFRED-TARAZI.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/ALFRED-TARAZI.jpg" /></a></td>
   </tr>
   <tr>
     <td style="padding-top:5px;"><strong>ALFRED TARAZI</strong></td>
@@ -109,7 +109,7 @@ comfortable and ergonomic.</td>
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
 
   <tr>
-    <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/RANA-SALAM.jpg" /></a></td>
+    <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/RANA-SALAM.jpg" /></a></td>
   </tr>
   <tr>
     <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -147,7 +147,7 @@ comfortable and ergonomic.</td>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/NADINE-CHAHINE.php" class="lightwindow"><img src="img/c2012/speakers/NADINE-CHAHINE.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/NADINE-CHAHINE.php" class="lightwindow"><img src="img/c2012/speakers/NADINE-CHAHINE.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;text-transform:uppercase;"><strong>Nadine Chahine</strong></td>
@@ -158,7 +158,7 @@ comfortable and ergonomic.</td>
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/tarek-atrissiBW-SMALL.php" class="lightwindow"><img src="img/c2012/speakers/tarek-atrissiBW-SMALL.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/tarek-atrissiBW-SMALL.php" class="lightwindow"><img src="img/c2012/speakers/tarek-atrissiBW-SMALL.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>TAREK ATRISSI</strong></td>
@@ -206,7 +206,7 @@ design.</td>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/PASCAL-ZOGHBI.php" class="lightwindow"><img src="img/c2012/speakers/PASCAL-ZOGHBI.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/PASCAL-ZOGHBI.php" class="lightwindow"><img src="img/c2012/speakers/PASCAL-ZOGHBI.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>PASCAL ZOGHBI</strong></td>
@@ -217,7 +217,7 @@ design.</td>
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -270,7 +270,7 @@ and sentences instead of perceiving them as abstract shapes.</td>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/NEDDA-EL-ASMAR.php" class="lightwindow"><img src="img/c2012/speakers/NEDDA-EL-ASMAR.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/NEDDA-EL-ASMAR.php" class="lightwindow"><img src="img/c2012/speakers/NEDDA-EL-ASMAR.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>NEDDA EL ASMAR</strong></td>
@@ -281,7 +281,7 @@ and sentences instead of perceiving them as abstract shapes.</td>
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:visible;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/GISBERT-STACH.php" class="lightwindow"><img src="img/c2012/speakers/GISBERT-STACH.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/GISBERT-STACH.php" class="lightwindow"><img src="img/c2012/speakers/GISBERT-STACH.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>GISBERT STACH</strong></td>
@@ -331,7 +331,7 @@ contemporary jewellery.</td>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/OSAMA-EL-SID.php" class="lightwindow"><img src="img/c2012/speakers/OSAMA-EL-SID.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/OSAMA-EL-SID.php" class="lightwindow"><img src="img/c2012/speakers/OSAMA-EL-SID.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>OSAMA ESID</strong></td>
@@ -342,7 +342,7 @@ contemporary jewellery.</td>
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -384,7 +384,7 @@ The whole point of this workshop is to introduce a technique that is very econom
           <tr>
             <td width="149" style="vertical-align:top;"><table width="145" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td width="145" style="text-align:center;"><a href="parts/c2012speakersdet/MANAR-MOURSI.php" class="lightwindow"><img src="img/c2012/speakers/MANAR-MOURSI.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td width="145" style="text-align:center;"><a href="parts/c2012speakersdetdubai/MANAR-MOURSI.php" class="lightwindow"><img src="img/c2012/speakers/MANAR-MOURSI.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>MANAR MOURSI</strong></td>
@@ -395,7 +395,7 @@ The whole point of this workshop is to introduce a technique that is very econom
             </table></td>
             <td width="139" style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -443,7 +443,7 @@ has an interest in the city.</td>
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
 
   <tr>
-    <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/RANA-SALAM.jpg" /></a></td>
+    <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/RANA-SALAM.jpg" /></a></td>
   </tr>
   <tr>
     <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -459,7 +459,7 @@ has an interest in the city.</td>
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
 
   <tr>
-    <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/RANA-SALAM.jpg" /></a></td>
+    <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/RANA-SALAM.jpg" /></a></td>
   </tr>
   <tr>
     <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -500,7 +500,7 @@ has an interest in the city.</td>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/HALEH-ANVARI.php" class="lightwindow"><img src="img/c2012/speakers/HALEH-ANVARI.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/HALEH-ANVARI.php" class="lightwindow"><img src="img/c2012/speakers/HALEH-ANVARI.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>HALEH ANVARI</strong></td>
@@ -511,7 +511,7 @@ has an interest in the city.</td>
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -545,7 +545,7 @@ In this workshop we will look at how I arrived at this solution and how it can b
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/SH-ALANOUD-AL-SABAH.php" class="lightwindow"><img src="img/c2012/speakers/SH-ALANOUD-AL-SABAH.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/SH-ALANOUD-AL-SABAH.php" class="lightwindow"><img src="img/c2012/speakers/SH-ALANOUD-AL-SABAH.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>SH. ALANOUD ALSABAH</strong></td>
@@ -556,7 +556,7 @@ In this workshop we will look at how I arrived at this solution and how it can b
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -623,7 +623,7 @@ creations of Gold and Pearl.</td>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/ASAD-FAULWELL.php" class="lightwindow"><img src="img/c2012/speakers/ASAD-FAULWELL.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/ASAD-FAULWELL.php" class="lightwindow"><img src="img/c2012/speakers/ASAD-FAULWELL.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>ASAD FAULWELL</strong></td>
@@ -634,7 +634,7 @@ creations of Gold and Pearl.</td>
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
@@ -675,7 +675,7 @@ elements of color theory.</td>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/WTD-MAG-WORKSHOPS.php" class="lightwindow"><img src="img/c2012/speakers/WTD-MAG-WORKSHOP.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/WTD-MAG-WORKSHOP.php" class="lightwindow"><img src="img/c2012/speakers/WTD-MAG-WORKSHOP.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>WTD MAGAZINE</strong></td>
@@ -686,7 +686,7 @@ elements of color theory.</td>
             </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;visibility:hidden;">
               <tr>
-                <td style="text-align:center;"><a href="parts/c2012speakersdet/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
+                <td style="text-align:center;"><a href="parts/c2012speakersdetdubai/RANA-SALAM.php" class="lightwindow"><img src="img/c2012/speakers/RANA-SALAM.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;"><strong>RANA SALAM</strong></td>
