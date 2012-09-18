@@ -4,7 +4,20 @@
 <table style="margin-top:30px;" width="730" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td><a href="c2012kuwait.php" style="text-decoration:none;"><div class="imageAreaRec">
-                	<img src="img/c2012/DIFC.jpg" width="360" height="360"/>
+                	<div style="overflow:hidden;height:360px;"><div id="locationbanner" class="slider-location-banner">
+
+			<ul>				
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="360px" src="img/c2012/locationbanerkuwait/01.jpg" /></a></li>
+                
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="360px" src="img/c2012/locationbanerkuwait/02.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="360px" src="img/c2012/locationbanerkuwait/03.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="360px" src="img/c2012/locationbanerkuwait/04.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="360px" src="img/c2012/locationbanerkuwait/05.jpg" /></a></li>
+                
+			</ul>
+           
+		</div>                                        <a href="c2012kuwait.php#speakers"><div class="imageBottom3" style="height:120px"><img width="360px" height="120px" src="img/c2012/locationbanerkuwait/note.png" /><br />
+ </div></a></div>
 </div></a></td>
     <td><table><tr><td>
     <table align="right"><tr><td><div style="overflow:hidden;height:150px;"><div id="indexsliders" class="slider-small">
@@ -88,3 +101,4 @@
     </td>
   </tr>
 </table>
+

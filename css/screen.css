@@ -52,6 +52,21 @@
 		width:360px;
 		height:150px;
 		overflow:hidden;
+		}	
+		
+			.slider-location-banner ul, .slider-location-banner li {
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+	.slider-location-banner li { 
+		/* 
+			define width and height of list item (slide)
+			entire slider area will adjust according to the parameters provided here
+		*/ 
+		width:360px;
+		height:360px;
+		overflow:hidden;
 		}					
 	#slider2{margin-top:1em;}
 	#slider li, #slider2 li{ 

@@ -70,6 +70,15 @@
 			});
 		});	})(jQuery); 
 	</script>   
+    
+        	<script type="text/javascript">
+		(function($) { $j(document).ready(function(){	
+			$j("#locationbanner").easySlider({
+				auto: true, 
+				continuous: true
+			});
+		});	})(jQuery);
+	</script>
 
   
         <script type="text/javascript">

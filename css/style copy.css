@@ -1049,6 +1049,20 @@ div.imageArea:hover .imageBottom {
 	transition:all 0.2s ease-out;	
 }
 
+.imageBottom3 {
+	position:relative;
+	z-index:200;
+	width:352px;
+	color:#fff;
+	background-color:rgba(0,0,0,0.7);
+	font-size:11px;
+	text-align:left;
+	font-weight:bold;
+	padding:4px;
+	text-align:left;
+	top:-55px;
+	transition:all 0.2s ease-out;	
+}
 
 .SubmitBtn {
 	background-color:#FFF;

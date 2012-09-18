@@ -7,14 +7,14 @@
     document.getElementById('page-nav-story').style.visibility = 'hidden';
     document.getElementById('page-nav-mission').style.visibility = 'hidden';
 	document.getElementById('c2012kuwait').style.visibility = 'hide';
-	document.getElementById('c2012dubai').style.visibility = 'show'; " style="	text-decoration:none;" href="#"><div class="page-nav-hover"
+	document.getElementById('c2012dubai').style.visibility = 'show'; " style="	text-decoration:none;" href="#"><div class="page-nav-hover-dubai"
     
     >
-                <div class="page-nav-node"></div>
-                <div class="page-nav-text">Dubai</div>    </div>
+                <div class="page-nav-node-dubai" ></div>
+                <div class="page-nav-text-dubai">Dubai</div>    </div>
                 <div id="page-nav-found" style="	visibility:visible;">
-                  <div class="page-nav-node-on"></div>
-                  <div class="page-nav-text-on">Dubai</div>
+                  <div class="page-nav-node-on-dubai"></div>
+                  <div class="page-nav-text-on-dubai">Dubai</div>
                 </div>
 </a>
 </td>
@@ -22,26 +22,26 @@
                 
             	<td height="30" width="180" style="vertical-align:middle;"><a /*onClick="document.getElementById('c2012kuwait').style.visibility = 'show';
 document.getElementById('c2012dubai').style.visibility = 'hide';                
-"*/ style="text-decoration:none;" href="c2012kuwait.php"><div class="page-nav-hover">
-                <div class="page-nav-node"></div>
-                <div class="page-nav-text">Kuwait</div>
+"*/ style="text-decoration:none;" href="c2012kuwait.php"><div class="page-nav-hover-dubai">
+                <div class="page-nav-node-dubai" ></div>
+                <div class="page-nav-text-dubai">Kuwait</div>
                
                 </div>                <div id="page-nav-amb">                
-                <div class="page-nav-node-on"></div>
-                <div class="page-nav-text-on">Kuwait</div>
+                <div class="page-nav-node-on-dubai"></div>
+                <div class="page-nav-text-on-dubai">Kuwait</div>
                 </div> </a>
 </td>
                 
 	<td height="30" width="180" style="vertical-align:middle;"><a /*onClick="document.getElementById('page-nav-found').style.visibility = 'hidden';
     document.getElementById('page-nav-amb').style.visibility = 'hidden';
     document.getElementById('page-nav-story').style.visibility = 'visible';
-    document.getElementById('page-nav-mission').style.visibility = 'hidden';"*/ style="	text-decoration:none;" href="#"><div class="page-nav-hover">
-                <div class="page-nav-node"></div>
-                <div class="page-nav-text">Beirut</div>
+    document.getElementById('page-nav-mission').style.visibility = 'hidden';"*/ style="	text-decoration:none;" href="#"><div class="page-nav-hover-dubai">
+                <div class="page-nav-node-dubai" ></div>
+                <div class="page-nav-text-dubai">Beirut</div>
                
                 </div>                <div id="page-nav-story">                
-                <div class="page-nav-node-on"></div>
-                <div class="page-nav-text-on">Beirut</div>
+                <div class="page-nav-node-on-dubai"></div>
+                <div class="page-nav-text-on-dubai">Beirut</div>
                 </div> </a>
 </td>
                 
@@ -49,14 +49,14 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
 	<td height="30" width="180" style="vertical-align:middle;"><a /*onClick="document.getElementById('page-nav-found').style.visibility = 'hidden';
     document.getElementById('page-nav-amb').style.visibility = 'hidden';
     document.getElementById('page-nav-story').style.visibility = 'hidden';
-    document.getElementById('page-nav-mission').style.visibility = 'visible';"*/ style="	text-decoration:none;" href="#"><div class="page-nav-hover">
-                <div class="page-nav-node"></div>
-                <div class="page-nav-text">Jeddah</div>
+    document.getElementById('page-nav-mission').style.visibility = 'visible';"*/ style="	text-decoration:none;" href="#"><div class="page-nav-hover-dubai">
+                <div class="page-nav-node-dubai" ></div>
+                <div class="page-nav-text-dubai">Jeddah</div>
                
                 </div>
                                 <div id="page-nav-mission">                
-                <div class="page-nav-node-on"></div>
-                <div class="page-nav-text-on">Jeddah</div>
+                <div class="page-nav-node-on-dubai"></div>
+                <div class="page-nav-text-on-dubai">Jeddah</div>
                 </div> </a>
 </td>                                                           
             </tr>
@@ -71,13 +71,13 @@ document.getElementById('c2012dubai').style.visibility = 'hide';
     	<table width="140" border="0" align="left" cellpadding="0" cellspacing="0">
 
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#">Speakers</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#"  style="color:#13969E;">Speakers</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#workshops">workshops</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#workshops" style="color:#13969E;">workshops</a></td>
   			</tr>
   			<tr>
-    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#schedule">Schedule</a></td>
+    			<td height="30" width="140" style="text-align:center; vertical-align:middle;"><a class="nav-twotwelve" href="#schedule" style="color:#13969E;">Schedule</a></td>
   			</tr>
 		</table>
 </td>
