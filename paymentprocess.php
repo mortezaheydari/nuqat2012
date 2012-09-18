@@ -352,7 +352,7 @@ $headers = 'From: info@nuqat.me';
 
 @mail($row_register['email'], "Nuqat Registeration", $email_message, $headers);
 
-@mail("tickets@nuqat.me", "Full Name: ".$row_register['FName']." ".$row_register['LName'], $email_message, $headers);
+@mail("info@nuqat.me", "Full Name: ".$row_register['FName']." ".$row_register['LName'], $email_message, $headers);
 
 header("Location: http://nuqat.me/regconf.php?merchTxnRef=".$row_register['merchTxnRef']);
 

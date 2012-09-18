@@ -232,7 +232,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 
 <tr><td>
 
-<p style="font-size:1.15em; color:#1D1D1B; line-height:20px; line-height:0px; text-transform:uppercase;">Nuqat Design Conference DUBAI 2012</p>
+<p style="font-size:1.15em; color:#1D1D1B; line-height:20px; line-height:0px; text-transform:uppercase;">Nuqat Design Conference 2012</p>
 
 </td></tr>
 
@@ -250,7 +250,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 
 	<td>
 
-	<h1 style="color:#139BA3; padding-left:5px;">ARABESQUE</h1>
+	<h1 style="color:#e94f1b; padding-left:5px;">ARABESQUE</h1>
 
 	</td>
 
@@ -292,7 +292,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 
     	<tr ><td>
 
-		<img src="img/headersponsor01(x2).jpg" height="80" width="80" align="right" style="margin-bottom:5px; margin-right:5px; margin-left:5px; visibility:hidden !important;"/>
+		<img src="img/c2012/sponsorskuwait/nuqat_patronage_logo.jpg" style="margin-bottom:5px;" align="right" height="100" width="300">
 
     
 
@@ -336,11 +336,11 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 
 <!--menumain -->                    <li><a href="ourstory.php">our story</a></li>  
 
-<!--menumain -->                	<li><a class="parent" href="conferences.php">nuqat conferences</a> 
+<!--menumain -->                	<li><a class="parent" href="conferences.php">conferences</a> 
 
 <!--menumain -->                    	<ul class="submenu">  
 
-<!--menumain -->							<li><a href="c2012.php">2012</a></li> 
+<!--menumain -->							<li><a href="c2012kuwait.php">2012</a></li> 
 
 <!--menumain -->                        	<li><a href="c2010.php">2010</a></li>  
 
@@ -584,9 +584,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
 
   <tr>
 
-    <td style="padding-top:5px;padding-bottom:5px;text-align:center;">DUBAI CONFERENCE 2012<br />
-
-Limited Tickets!</td>
+    <td style="padding-top:5px;padding-bottom:5px;text-align:center;">KUWAIT CONFERENCE 2012</td>
 
   </tr>
 
@@ -607,7 +605,30 @@ Limited Tickets!</td>
     <td style="padding-top:5px;padding-bottom:5px;text-align:center;"><img src="img/abyatlogo(x2).jpg" width="100" height="100" /></td>
 
   </tr>-->
+<tr>
+    <td style="padding-top:5px;padding-bottom:5px; padding-left:10px;text-align:left;">IN ASSOCIATION WITH</td>
+  </tr>
+  <tr>
+    <td style="padding-top:5px;padding-bottom:5px;text-align:center;"><table><tbody><tr>
+<td style="text-align:left; width:46
+0px;padding-left:5px; vertical-align:bottom">
 
+    <a href="http://americani.wordpress.com/" target="_blank"><img src="img/c2012/sponsorskuwait/amricani.jpg" height="68px" width="85px"></a>          
+                    
+</td>
+
+
+<td style="text-align:left;  width:85px;padding-right:5px; border-left:thin solid #000;  vertical-align:bottom">
+
+
+    <a href="http://darmuseum.org.kw/english/" target="_blank"><img src="img/c2012/sponsorskuwait/dar-alathat.jpg" height="68px" width="140px"></a>         
+    
+ 
+</td>
+</tr></tbody></table></td>
+
+
+  </tr>
   <tr>
 
     <td height="20">&nbsp;</td>
