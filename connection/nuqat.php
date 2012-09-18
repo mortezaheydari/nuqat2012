@@ -8,9 +8,9 @@ $username_nuqat = "shahin";
 $password_nuqat = "admin";
 $nuqat = mysql_pconnect($hostname_nuqat, $username_nuqat, $password_nuqat) or trigger_error(mysql_error(),E_USER_ERROR); 
 */
-$hostname_Nuqat = "shahinnuqat.db.8967694.hostedresource.com";
-$database_Nuqat = "shahinnuqat";
-$username_Nuqat = "shahinnuqat";
-$password_Nuqat = "Shahin@123";
-$Nuqat = mysql_pconnect($hostname_Nuqat, $username_Nuqat, $password_Nuqat) or trigger_error(mysql_error(),E_USER_ERROR);
+$hostname_nuqat = "shahinnuqat.db.8967694.hostedresource.com";
+$database_nuqat = "shahinnuqat";
+$username_nuqat = "shahinnuqat";
+$password_nuqat = "Shahin@123";
+$nuqat = mysql_pconnect($hostname_nuqat, $username_nuqat, $password_nuqat) or trigger_error(mysql_error(),E_USER_ERROR);
 ?>
