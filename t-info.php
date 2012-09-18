@@ -478,7 +478,7 @@ function GetSQLValueString($theValue, $theType, $theDefinedValue = "", $theNotDe
   	if ($_POST['PACKAGE'] == "3d2wd0") {
 		echo "3 days Lectures + 2 workshops = KD 230 (820$)";
 	} elseif ($_POST['PACKAGE'] == "3d1wd0") {
-		echo "3 days Lectures + 1 workshop = KD 130 (460$)";
+		echo "3 days + 1 workshop = KD 130 (460$)";
 	}  elseif ($_POST['PACKAGE'] == "3d0wd0") {
 		echo "3 days Lectures = KD 30 (110$)";
 	}  elseif ($_POST['PACKAGE'] == "0d1wd0") {
