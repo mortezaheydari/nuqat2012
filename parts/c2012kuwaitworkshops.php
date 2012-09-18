@@ -3,7 +3,7 @@
     <td width="709" colspan="5" id="workshops" style="padding-top:120px;"><h1>workshops</h1></td>
     </tr>
   <tr>
-    <td colspan="5"><p>20th - 22nd of March<br />
+    <td colspan="5"><p>7th - 9th of October<br />
 Interactive workshops to be conducted by the speakers themselves. The maximum workshops that can be taken are two, combining morning and afternoon workshops. Durations will range from 4 to 5 hours.</p></td>
     </tr>
   <tr>
@@ -13,10 +13,10 @@ Interactive workshops to be conducted by the speakers themselves. The maximum wo
     <td colspan="5"><table width="710" border="0" cellspacing="0" cellpadding="0">
       <tr>
         <td width="355"><strong  style="color:#E94F1B;font-weight:bold;font-size:1.2em;">MORNING WORKSHOPS</strong><br/>
-        <strong  style="color:#E94F1B;font-weight:bold;font-size:0.8em;">20TH - 22ND OF MARCH 2012 9:00AM - 1:00PM</strong></td>
+        <strong  style="color:#E94F1B;font-weight:bold;font-size:0.8em;">7TH - 9TH OF OCTOBER 2012 9:00AM - 1:00PM</strong></td>
         <td width="55"></td>
         <td width="300"><strong  style="color:#E94F1B;font-weight:bold;font-size:1.2em;">AFTERNOON WORKSHOPS</strong><br/>
-        <strong  style="color:#E94F1B;font-weight:bold;font-size:0.8em;">20TH - 22ND OF MARCH 2012 2:00PM - 6:00PM</strong></td>
+        <strong  style="color:#E94F1B;font-weight:bold;font-size:0.8em;">7TH - 9TH OF OCTOBER 2012 2:00PM - 6:00PM</strong></td>
       </tr>
       <tr>
         <td style="vertical-align:top;">&nbsp;</td>
@@ -145,7 +145,7 @@ The whole point of this workshop is to introduce a technique that is very econom
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 2:<br/>
-                 Product</h3></td>
+                 Arabic Typography & Product Design: Creating a real-life Kashida product for Nuqat</h3></td>
           </tr>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -178,7 +178,7 @@ The whole point of this workshop is to introduce a technique that is very econom
     <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;">Workshop Description</span></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;">-</td>
+    <td style="padding-top:5px;color:#636362;">Together with Kashida's co-founders, the workshop will explore a new niche in Arabic script which we term '4-dimensional letterforms'. Participants will sketch, design, and develop a functional accessory item for Nuqat conference. The chosen piece(s) will be produced exclusively for the conferences to come, available to participants. Bringing flat 2-dimensional type into a functional 3-dimensional object is the core mission and learning experience of this workshop.</td>
   </tr>
 </table>
 
@@ -220,7 +220,7 @@ The whole point of this workshop is to introduce a technique that is very econom
     <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;">Workshop Description</span></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;">Throughout the workshop we will try to determine what it means to be Arab today, and what the challenges ahead are. Working on a group and individual level our aim will be to understand what creates in each person a sense of identity, what generates it, and how we are using this notion to create the ideas that will shape the future of the Arab World. Each participant will be invited to present his story and to reflect on it. Those stories can come from family backgrounds, or from their professional/personal life, or a combination of both. As raw material, participants will present ten images that represent them the most, those images can serve as illustrations to their story... we will then proceed to work with those images to create a visual mapping that can represent each and every participant's engagement towards what it means to be Arab today.</td>
+    <td style="padding-top:5px;color:#636362;">The workshop will grant the participants the comprehension of Arabic Kufic patterns and will enable them to create their own Kufic patterns. The workshop will introduce the three main Kufic calligraphic styles: Archaic Kufic, Floral Modern Kufic and Square Kufic, and then it will move on to become a Hands-On drawing session of arabesque patterns. Participants will create arabesque typographic patterns from both the Floral and Square Kufic structures. Besides acquiring the technique of drawing Kufic, participants will be able to decipher Geometric Kufic patterns into words and sentences instead of perceiving them as abstract shapes.</td>
   </tr>
 </table>
         
@@ -479,7 +479,7 @@ comfortable and ergonomic.</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 10: <br/>
-               Trend Spotting</h3></td>
+               Trend Spotting 101: The Cultural Forensics Workshop</h3></td>
           </tr>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -512,7 +512,7 @@ comfortable and ergonomic.</td>
     <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;">Workshop Description</span></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;">-</td>
+    <td style="padding-top:5px;color:#636362;">The field of trend spotting houses many approaches, resources, and applications. Learn how this field can enrich your creative or business idea. Participants will learn about the various methods, sharpen their ability to analyze culture, and apply a strategic approach. Participants may come to this workshop with a design concept / business idea / communications campaign that needs development or start something from scratch.</td>
   </tr>
 </table>
         
