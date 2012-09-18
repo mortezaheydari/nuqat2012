@@ -80,7 +80,7 @@
     <a href="http://www.mcdonaldsarabia.com/kuwait/en/home.html" target="_blank"><img width="124px" height="120px" src="img/c2012/sponsorskuwait/macdonalds.jpg" /></a>
 
 
-<a href="http://www.mcdonaldsarabia.com/kuwait/en/home.html" target="_blank"><img width="124px" height="120px" src="img/c2012/sponsorskuwait/dahan.jpg" /></a>
+<a href="http://www.dahan.com.kw/" target="_blank"><img width="124px" height="120px" src="img/c2012/sponsorskuwait/dahan.jpg" /></a>
     
  
 <a href="http://www.archofkuwait.com/" target="_blank"><img width="94px" height="120px" src="img/c2012/sponsorskuwait/archofkuwait.jpg" /></a>

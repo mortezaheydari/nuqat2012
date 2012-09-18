@@ -101,15 +101,18 @@
 <td style="text-align:left; width:46
 0px;padding-left:5px; vertical-align:bottom">
 
-    <a href="http://darmuseum.org.kw/english/" target="_blank"><img width="251px" height="120px" src="img/c2012/sponsorskuwait/dar-alathat.jpg" /></a>                   
+    <a href="http://darmuseum.org.kw/english/" target="_blank"><img width="140px" height="68px" src="img/c2012/sponsorskuwait/dar-alathat.jpg" /></a>                   
                     
 </td>
 
 
-<td style="text-align:left;  width:270px;padding-right:5px; border-left:thin solid #000;">
+<td style="text-align:left;  width:85px;padding-right:5px; border-left:thin solid #000;  vertical-align:bottom">
 
 
-    <a href="http://americani.wordpress.com/" target="_blank"><img width="153px" height="120px" src="img/c2012/sponsorskuwait/amricani.jpg" /></a>
+    <a href="http://americani.wordpress.com/" target="_blank"><img width="85px" height="68px" src="img/c2012/sponsorskuwait/amricani.jpg" /></a>
  
 </td>
 </tr></table>
+
+    <a href="http://americani.wordpress.com/" target="_blank"><img width="85px" height="68px" src="img/c2012/sponsorskuwait/amricani.jpg" /></a>
+ 

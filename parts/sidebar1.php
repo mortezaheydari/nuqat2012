@@ -13,7 +13,25 @@ Limited Tickets!--></td>
     <td style="padding-top:5px;padding-bottom:5px; padding-left:10px;text-align:left;">IN ASSOCIATION WITH</td>
   </tr>
   <tr>
-    <td style="padding-top:5px;padding-bottom:5px;text-align:center;"><a href="#" target="_blank"><img src="img/c2012/sponsors/darathar.jpg" width="217" height="100" /></a></td>
+    <td style="padding-top:5px;padding-bottom:5px;text-align:center;"><table><tr>
+<td style="text-align:left; width:46
+0px;padding-left:5px; vertical-align:bottom">
+
+    <a href="http://americani.wordpress.com/" target="_blank"><img width="85px" height="68px" src="img/c2012/sponsorskuwait/amricani.jpg" /></a>          
+                    
+</td>
+
+
+<td style="text-align:left;  width:85px;padding-right:5px; border-left:thin solid #000;  vertical-align:bottom">
+
+
+    <a href="http://darmuseum.org.kw/english/" target="_blank"><img width="140px" height="68px" src="img/c2012/sponsorskuwait/dar-alathat.jpg" /></a>         
+    
+ 
+</td>
+</tr></table></td>
+
+
   </tr>
   <tr>
     <td height="40">&nbsp;</td>
