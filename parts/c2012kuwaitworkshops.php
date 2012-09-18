@@ -84,7 +84,7 @@ design.</td>
 </table>
         
         </td>
-        <td width="55" style="border-left:solid 1px #139BA3;" >&nbsp;</td>
+        <td width="55" style="border-left:solid 1px #E94F1B;" >&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr><td colspan="2"><h3>WORKSHOP 6:<br/>
                  Print Anything Anywhere</h3></td></tr>
@@ -138,7 +138,7 @@ The whole point of this workshop is to introduce a technique that is very econom
       
       <tr>
         <td height="100" style="vertical-align:top;">        <?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;">        <?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       <tr>
@@ -183,7 +183,7 @@ The whole point of this workshop is to introduce a technique that is very econom
 </table>
 
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 7: <br/>
@@ -228,7 +228,7 @@ The whole point of this workshop is to introduce a technique that is very econom
       </tr>
       <tr>
         <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       <tr>
@@ -272,7 +272,7 @@ The whole point of this workshop is to introduce a technique that is very econom
   </tr>
 </table>
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 8:<br/>
@@ -334,7 +334,7 @@ comfortable and ergonomic.</td>
       </tr>
       <tr>
         <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       <tr>
@@ -377,7 +377,7 @@ comfortable and ergonomic.</td>
   </tr>
 </table>
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;">
         <table width="300">
           <tr><td colspan="2"><h3>WORKSHOP 9:<br/>
@@ -427,7 +427,7 @@ comfortable and ergonomic.</td>
       
       <tr>
         <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       
@@ -475,7 +475,7 @@ comfortable and ergonomic.</td>
 </table>
         
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 10: <br/>
@@ -533,7 +533,7 @@ comfortable and ergonomic.</td>
       
       <tr>
         <td id="schedule" height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       

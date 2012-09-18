@@ -85,7 +85,7 @@ comfortable and ergonomic.</td>
 </table>
         
         </td>
-        <td width="55" style="border-left:solid 1px #139BA3;" >&nbsp;</td>
+        <td width="55" style="border-left:solid 1px #E94F1B;" >&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr><td colspan="2"><h3>WORKSHOP 7:<br/>
                  Being Arab</h3></td></tr>
@@ -135,7 +135,7 @@ comfortable and ergonomic.</td>
       
       <tr>
         <td height="100" style="vertical-align:top;">        <?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;">        <?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       <tr>
@@ -197,7 +197,7 @@ design.</td>
 </table>
 
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 8: <br/>
@@ -258,7 +258,7 @@ and sentences instead of perceiving them as abstract shapes.</td>
       </tr>
       <tr>
         <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       <tr>
@@ -322,7 +322,7 @@ contemporary jewellery.</td>
   </tr>
 </table>
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 9:<br/>
@@ -372,7 +372,7 @@ The whole point of this workshop is to introduce a technique that is very econom
       </tr>
       <tr>
         <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       <tr>
@@ -434,7 +434,7 @@ has an interest in the city.</td>
   </tr>
 </table>
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;">
         <table width="300">
           <tr><td colspan="2"><h3>WORKSHOP 10:<br/>
@@ -486,7 +486,7 @@ has an interest in the city.</td>
       
       <tr>
         <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       
@@ -535,7 +535,7 @@ In this workshop we will look at how I arrived at this solution and how it can b
 </table>
         
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 11 + 12: <br/>
@@ -609,7 +609,7 @@ creations of Gold and Pearl.</td>
       
       <tr>
         <td height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;">&nbsp;</td>
       </tr>
       
@@ -666,7 +666,7 @@ elements of color theory.</td>
 </table>
         
         </td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3 style="font-weight:bolder;"><br/>
@@ -736,7 +736,7 @@ It can be carried by one person</td>
       
       <tr>
         <td id="schedule" height="100" style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
-        <td style="vertical-align:top;border-left:solid 1px #139BA3;">&nbsp;</td>
+        <td style="vertical-align:top;border-left:solid 1px #E94F1B;">&nbsp;</td>
         <td style="vertical-align:top;"><?php include('parts/regnowb.php');?>&nbsp;</td>
       </tr>
       
