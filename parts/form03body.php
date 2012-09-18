@@ -342,9 +342,9 @@
    	  <label for="hear">How did you hear about us?  <span>*</span></label></td><td><span id="spryselect2">
    	  <select name="hear" id="hear" class="required" style="width:270px;">
    	    <option value="-1">Choose one...</option>
-   	    <option value="I'm a regular participant">I'm a regular participant</option>
+   	    <option value="I am a regular participant">I am a regular participant</option>
    	    <option value="Thru a Nuqat representative">Thru a Nuqat representative</option>
-   	    <option value="I'm your follower on social media">I'm your follower on social media</option>
+   	    <option value="I am your follower on social media">I am your follower on social media</option>
    	    <option value="read about you in a publication">read about you in a publication</option>
    	    <option value="recommended by a friend">recommended by a friend</option>
    	    <option value="other">other</option>
