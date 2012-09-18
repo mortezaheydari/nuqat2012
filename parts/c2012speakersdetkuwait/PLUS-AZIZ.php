@@ -1,4 +1,4 @@
-
+<table width="660"><tr><td>
 <table width="360" border="0" align="center" cellpadding="0" cellspacing="0">
 			  <tr>
 			    <td width="135" style="vertical-align:top;"><img src="img/c2012/speakers/PLUS-AZIZ.jpg" />
@@ -16,7 +16,7 @@
     <td>  <h3>BIO</h3></td>
   </tr>
   <tr>
-    <td>Senior Trend analyst at NYC based marketing company Fathom+Hatch and musical entrepreneur with a background in qualitative consumer research and trend spotting, philosophy and advertising.
+    <td>The field of trend spotting houses many approaches, resources, and applications. Learn how this field can enrich your creative or business idea. Participants will learn about the various methods, sharpen their ability to analyze culture, and apply a strategic approach. Participants may come to this workshop with a design concept / business idea / communications campaign that needs development or start something from scratch.
 <br/><br/>
 <a class="nav-twotwelve" target="_blank" href="http://about.me/plusaziz">about.me/plusaziz</a><br /><a class="nav-twotwelve" target="_blank" href="http://twitter.com/Plusaziz">twitter.com/Plusaziz</a></td>
   </tr>
@@ -44,6 +44,31 @@
 
                
                 </td>
+                
+                
 			  </tr>
 			</table>
+            
+                    
+</td>
+<td style="padding-left:20px">
+
+<table width="300" border="0" cellspacing="0" cellpadding="0" style="vertical-align:top !important; ">
+                  <tr>
+                    <td><h3>WORKSHOP</h3></td>
+                  </tr>
+                  <tr>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Trend Spotting 101: The Cultural Forensics Workshop</span></td>
+                  </tr>
+                                    <tr>
+                    <td><p> Nomadic settlements in the desert. The tent is a transient structure that serves the purpose of shelter from the environment, while being demountable and transportable to match the needs of nomadic tribes in search of a more hospitable spot in the desert. Design a collapsible and portable structure for a purpose/a use/ a state - a place to drink coffee - a place to take a nap - a place to be alone in public - a place that fits a conversation Materials Notched cardboard without glue Properties The final space can be taken apar t and r eassembled whenever needed It can be carried by one person </p>
+                      <p><br />
+                      </p></td>
+                  </tr>
+      </table>
+
+                
+
+</td></tr></table>
+  
 <!-- google ana-->              

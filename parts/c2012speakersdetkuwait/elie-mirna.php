@@ -1,4 +1,4 @@
-
+<table width="660"><tr><td>
         	<table width="360" border="0" align="center" cellpadding="0" cellspacing="0">
 			  <tr>
 			    <td width="135" style="vertical-align:top;"><img src="img/c2012/speakers/elie-mirna.jpg" />
@@ -44,4 +44,26 @@
                 </td>
 			  </tr>
 			</table>
+     
+</td>
+<td style="padding-left:20px">
+
+<table width="300" border="0" cellspacing="0" cellpadding="0" style="vertical-align:top !important; ">
+                  <tr>
+                    <td><h3>WORKSHOP</h3></td>
+                  </tr>
+                  <tr>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Arabic Typography & Product Design: Creating a real-life Kashida product for Nuqat</span></td>
+                  </tr>
+                                    <tr>
+                    <td><p> Together with Kashida's co-founders, the workshop will explore a new niche in Arabic script which we term '4-dimensional letterforms'. Participants will sketch, design, and develop a functional accessory item for Nuqat conference. The chosen piece(s) will be produced exclusively for the conferences to come, available to participants. Bringing flat 2-dimensional type into a functional 3-dimensional object is the core mission and learning experience of this workshop.</p>
+                      <p><br />
+                      </p></td>
+                  </tr>
+      </table>
+
+                
+
+</td></tr></table>
+              
 <!-- google ana-->              
