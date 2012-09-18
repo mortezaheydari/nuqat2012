@@ -1,1 +1,1 @@
-<a href="img/schadule-large.jpg" class="lightwindow"><img src="img/schadule.jpg" border="0" /></a>
+<a href="img/schadule-large-kuwait.jpg" class="lightwindow"><img src="img/schadule-kuwait.jpg" border="0" /></a>

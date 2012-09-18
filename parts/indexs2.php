@@ -10,15 +10,13 @@
     <table align="right"><tr><td><div style="overflow:hidden;height:150px;"><div id="indexsliders" class="slider-small">
 
 			<ul>				
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallery/01.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/01.jpg" /></a></li>
                 
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallery/02.jpg" /></a></li>
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallery/03.jpg" /></a></li>
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallery/04.jpg" /></a></li>
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallery/05.jpg" /></a></li>
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallery/06.jpg" /></a></li>
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallery/07.jpg" /></a></li>
-
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/02.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/03.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/04.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/05.jpg" /></a></li>
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/06.jpg" /></a></li>
                 
 			</ul>
            

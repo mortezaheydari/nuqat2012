@@ -736,4 +736,4 @@ It can be carried by one person</td>
 <table width="709" border="0" align="center" cellpadding="0" cellspacing="0" id="schedule" ><tr><td>
 <h1>SCHEDULE</h1>
 </td></tr></table>
-<a href="img/schadule-large.jpg" class="lightwindow"><img src="img/schadule.jpg" border="0" /></a>
+<a href="img/schadule-large-kuwait.jpg" class="lightwindow"><img src="img/schedule-kuwait.jpg" border="0" /></a>
