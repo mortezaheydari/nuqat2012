@@ -171,7 +171,7 @@
     <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/nur-kaoukji.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/nur-kaoukji.jpg" /></a></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;"><strong>NUR KAOUKJ</strong></td>
+    <td style="padding-top:5px;"><strong>NUR KAOUKJI</strong></td>
   </tr>
   <tr>
     <td><p>FASHION DESIGNER<br/> 
@@ -217,13 +217,13 @@
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/ASAD-FAULWELL.php" class="lightwindow"></a></td>
+    <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/nawbar.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/nawbar.jpg" /></a></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;"></td>
+    <td style="padding-top:5px;"><strong>L'atelier Nawbar</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>Jewelry Designer</p></td>
   </tr>
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
