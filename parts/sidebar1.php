@@ -22,14 +22,25 @@ Limited Tickets!--></td>
 </td>
 
 
-<td style="text-align:left;  width:85px;padding-right:5px; border-left:thin solid #000;  vertical-align:bottom">
+<td style="text-align:left;  width:85px;padding-right:5px; <!--border-left:thin solid #000;-->  vertical-align:bottom">
 
 
     <a href="http://darmuseum.org.kw/english/" target="_blank"><img width="140px" height="68px" src="img/c2012/sponsorskuwait/dar-alathat.jpg" /></a>         
     
+
  
 </td>
-</tr></table></td>
+</tr>
+
+</table>
+<table>
+<tr><td style="padding-left:10px">
+    <a href="http://www.alsadu.org.kw" target="_blank"><img width="220px" height="41px" src="img/c2012/sponsorskuwait/alsadu.jpg" /></a>
+</td></tr>
+</table>
+
+
+</td>
 
 
   </tr>
