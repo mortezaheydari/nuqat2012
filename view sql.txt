@@ -2,3 +2,11 @@ SELECT *
 FROM bank_info b1
 INNER JOIN registeration r1
 ON b1.merchTxnRef=r1.merchTxnRef
+
+
+
+SELECT *
+FROM bank_info b1
+INNER JOIN registeration r1
+ON b1.merchTxnRef=r1.merchTxnRef
+WHERE Date >= '2012-09-18'
