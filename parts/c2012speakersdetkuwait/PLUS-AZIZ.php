@@ -61,7 +61,7 @@
                     <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Trend Spotting 101: The Cultural Forensics Workshop</span></td>
                   </tr>
                                     <tr>
-                    <td><p> Nomadic settlements in the desert. The tent is a transient structure that serves the purpose of shelter from the environment, while being demountable and transportable to match the needs of nomadic tribes in search of a more hospitable spot in the desert. Design a collapsible and portable structure for a purpose/a use/ a state - a place to drink coffee - a place to take a nap - a place to be alone in public - a place that fits a conversation Materials Notched cardboard without glue Properties The final space can be taken apar t and r eassembled whenever needed It can be carried by one person </p>
+                    <td><p>The field of trend spotting houses many approaches, resources, and applications. Learn how this field can enrich your creative or business idea. Participants will learn about the various methods, sharpen their ability to analyze culture, and apply a strategic approach. Participants may come to this workshop with a design concept / business idea / communications campaign that needs development or start something from scratch.</p>
                       <p><br />
                       </p></td>
                   </tr>
