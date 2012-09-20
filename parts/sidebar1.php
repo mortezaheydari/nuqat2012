@@ -7,7 +7,7 @@
 Limited Tickets!--></td>
   </tr>
  <tr>
-    <td height="40">&nbsp;</td>
+    <td style="padding-bottom:5px;text-align:center;"><div style="margin-left: 17px;" class="register-now"><a href="payment.php">REGISTER NOW</a></div></td>
   </tr>
   <tr>
     <td style="padding-top:5px;padding-bottom:5px; padding-left:10px;text-align:left;">IN ASSOCIATION WITH</td>
