@@ -51,7 +51,7 @@
     
     <table width="340"  border="0" cellspacing="0" cellpadding="0" class="c2012ssld-04" style="vertical-align:top !important; margin-top:20px">
       <tr>
-        <td><strong class="c2012ssld-02">OVER 17 SPEAKERS</strong></td>
+        <td><strong class="c2012ssld-02">OVER 18 SPEAKERS</strong></td>
       </tr>
       <tr>
         <td><strong class="c2012ssld-02">10 WORKSHOPS</strong></td>
