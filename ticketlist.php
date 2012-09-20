@@ -66,6 +66,7 @@ table {
 		background-color: #fff; color: #1D1D1B;
 		border: solid 1px #808080;
 		padding: 5px;
+		font-size: 2em;
 	}
 </style>
 <table border="0" cellspacing="0" cellpadding="0">
