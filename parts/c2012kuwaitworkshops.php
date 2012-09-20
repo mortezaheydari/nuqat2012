@@ -413,7 +413,7 @@ comfortable and ergonomic.</td>
                 <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/dalal-al-bannai.php" class="lightwindow"><img src="img/c2012/speakers/dalal-al-bannai.jpg" alt="" width="135px" height="135px" /></a></td>
               </tr>
               <tr>
-                <td style="padding-top:5px;"><strong>ArchOfKuwait</strong></td>
+                <td style="padding-top:5px;"><strong>DALAL AL BANNAY</strong></td>
               </tr>
               <tr>
                 <td style="padding-top:5px;color:#636362;"> Architect & Founder of
