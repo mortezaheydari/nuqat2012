@@ -27,7 +27,7 @@ Interactive workshops to be conducted by the speakers themselves. The maximum wo
         <td style="vertical-align:top;" width="355"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 1: <br/>
-              Arabic Lettering &amp; Type Design</h3></td>
+              Visual Typographic Engagement</h3></td>
           </tr>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -62,24 +62,10 @@ Interactive workshops to be conducted by the speakers themselves. The maximum wo
     <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;">Workshop Description</span></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;">Between the art of classic Arabic
-calligraphy and the contemporary
-digital Arabic type design, lies the
-discipline of Arabic lettering, a task
-often in the hand of graphic designers
-in the context of branding,
-logo design and masthead design.
-Day 1 of this workshop will focus
-on the Arabic word and explore in
-theory and practice the creative
-possibilities of Arabic lettering.
-Day 2 will focus on the relationship
-of Arabic and Latin type within the
-context of logo design.
-Day 3 will take the results of Days 1
-and 2 and use them as a base to
-expand into the area of typeface
-design.</td>
+    <td style="padding-top:5px;color:#636362;">A pure typographic workshop focusing on the visual possibilities of the Arabic script, beyond lettering or type design. An experimental project will explore the possibilities of creating engaging images through the use of Arabic typography. Looking at words as pure forms on one hand; and as the carrier of a specific meaning on the other hand; eye catchy multi-layered typographic compositions will be created exploring visual typographic engagement in personal or in branding communication contexts.
+
+This is a new workshop by Tarek Atrissi given for the first time; Participants who already took previous workshop with Tarek can expect a new experience- which can even build on the results of previous workshops.
+The workshop will include "creative breaks" where some inspirational projects will be shown through a series of mini presentations and discussions.</td>
   </tr>
 </table>
         
@@ -236,7 +222,7 @@ The whole point of this workshop is to introduce a technique that is very econom
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 3:<br/>
-                 Fashion</h3></td>
+                 The Journey of a Block Printer</h3></td>
           </tr>
           <tr>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -269,7 +255,10 @@ The whole point of this workshop is to introduce a technique that is very econom
     <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;">Workshop Description</span></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;">-</td>
+    <td style="padding-top:5px;color:#636362;">This Workshop will take the students through the  same design development  of an artisan, specifically that of a textile block printer. 
+A mood board of images for design inspiration will be provided from which the participants will be asked to dissect potential patterns that they would like see transformed onto textile. They will then draw and trace, just as artisans do to produce a repeat pattern. 
+As block printing in itself is an art studied by an artisan for years before it is perfected, this workshop will be producing the pattern in a collage form, which will then be transferred on to A2 sheets of paper. 
+The intention of this workshop is to connect the participants with the artisan, demonstrating the amount of precision and skill needed to make what seems to be a simple, pattern based textile.  </td>
   </tr>
 </table>
         </td>

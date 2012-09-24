@@ -61,11 +61,13 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Arabic Lettering &amp; Type Design</span></td>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Visual Typographic Engagement</span></td>
                   </tr>
                                     <tr>
-                    <td><p>Between the art of classic Arabic calligraphy and the contemporary digital Arabic type design, lies the discipline of Arabic lettering, a task often in the hand of graphic designers in the context of branding, logo design and masthead design. Day 1 of this workshop will focus on the Arabic word and explore in theory and practice the creative possibilities of Arabic lettering.</p>
-                      <p>Day 2 will focus on the relationship of Arabic and Latin type within the context of logo design. Day 3 will take the results of Days 1 and 2 and use them as a base to expand into the area of typeface design.<br />
+                    <td><p>A pure typographic workshop focusing on the visual possibilities of the Arabic script, beyond lettering or type design. An experimental project will explore the possibilities of creating engaging images through the use of Arabic typography. Looking at words as pure forms on one hand; and as the carrier of a specific meaning on the other hand; eye catchy multi-layered typographic compositions will be created exploring visual typographic engagement in personal or in branding communication contexts.
+
+This is a new workshop by Tarek Atrissi given for the first time; Participants who already took previous workshop with Tarek can expect a new experience- which can even build on the results of previous workshops.
+The workshop will include "creative breaks" where some inspirational projects will be shown through a series of mini presentations and discussions.<br />
                       </p></td>
                   </tr>
       </table>
