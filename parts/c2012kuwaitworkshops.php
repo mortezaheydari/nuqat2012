@@ -233,8 +233,8 @@ The whole point of this workshop is to introduce a technique that is very econom
     <td style="padding-top:5px;"><strong>NUR KAOUKJI</strong></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;color:#636362;"><p>Fashion Designer<br/> 
-    </p></td>
+    <td style="padding-top:5px;color:#636362;">Fashion Designer<br/> 
+    </td>
   </tr>
 </table></td>
             <td style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px; visibility:hidden;">
@@ -331,7 +331,7 @@ comfortable and ergonomic.</td>
         <td style="vertical-align:top;"><table width="300">
           <tr>
             <td colspan="2"><h3>WORKSHOP 4:<br/>
-                 Mixed Media<br/><br/></h3></td>
+                 Mixed Media<br/></h3></td>
           </tr>
           <tr>
             <td width="149" style="vertical-align:top;"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
