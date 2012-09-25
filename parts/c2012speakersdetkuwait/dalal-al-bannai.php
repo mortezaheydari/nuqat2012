@@ -63,11 +63,11 @@
                     <td><h3>WORKSHOP</h3></td>
                   </tr>
                   <tr>
-                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">Graffiti & Architecture</span><br/>
+                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">URBAN DIAGRAMMING AND GRAFFITI</span><br/>
                     <span style="color:#E94F1B;line-height:12pt;font-size:8pt;">Conducting with WTD MAGAZINE $ EL SEED</span></td>
                   </tr>
                                     <tr>
-                    <td><p> TBD</p>
+                    <td><p> Graffiti pops up over night. The artist usually unknown however a conversation always stems from its bystanders. Be it curiosity, anger or pure enjoyment - regardless of the artist's intentions Participants will start by exploring an urban space in Kuwait and document their findings. Through observation they will explore the various surfaces in which they would like to intervene on – any surface - wall, floor or object. eLseed will share his graffiti skills and experience until they are comfortable with the spray can. They can then carry out their planned intention on boards, place them around the city and document the community's reaction. * We will not be held accountable for the daring few who will carry out their intervention on Kuwait's public surfaces.</p>
                       <p><br />
                       </p></td>
                   </tr>

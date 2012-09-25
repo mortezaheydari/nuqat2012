@@ -371,7 +371,7 @@ comfortable and ergonomic.</td>
         <td style="vertical-align:top;">
         <table width="300">
           <tr><td colspan="2"><h3>WORKSHOP 9:<br/>
-                 Graffiti & Architecture</h3></td></tr>
+                 URBAN DIAGRAMMING AND GRAFFITI</h3></td></tr>
             <tr><td style="vertical-align:top;">
         <table width="135" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:10px;">
               <tr>
@@ -385,14 +385,7 @@ comfortable and ergonomic.</td>
               </tr>
             </table>
             
-            <table width="135" border="0" align="left" cellpadding="0" cellspacing="0" style="padding-top:10px; ">
-  <tr>
-    <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;"><br/><br/>Workshop Description</span></td>
-  </tr>
-  <tr>
-    <td style="padding-top:5px;color:#636362;"> -</td>
-  </tr>
-</table>
+            
 </td>
 
 
@@ -426,7 +419,16 @@ magazine</td>
 
 </tr></table>
 
-
+<table width="270" border="0" align="left" cellpadding="0" cellspacing="0" style="padding-top:10px; ">
+  <tr>
+    <td style="padding-top:5px;"><span style="padding-top:5px;color:#636362;"><br/><br/>Workshop Description</span></td>
+  </tr>
+  <tr>
+    <td style="padding-top:5px;color:#636362;" > Graffiti pops up over night. The artist usually unknown however a conversation always stems from its bystanders. Be it curiosity, anger or pure enjoyment - regardless of the artist's intentions
+Participants will start by exploring an urban space in Kuwait and document their findings. Through observation they will explore the various surfaces in which they would like to intervene on – any surface - wall, floor or object. eLseed will share his graffiti skills and experience until they are comfortable with the spray can. They can then carry out their planned intention on boards, place them around the city and document the community's reaction. * We will not be held accountable for the daring few who will carry out their intervention on Kuwait's public surfaces.
+</td>
+  </tr>
+</table>
         </td>
       </tr>
       
