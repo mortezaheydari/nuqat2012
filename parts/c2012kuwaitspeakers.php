@@ -228,13 +228,13 @@
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/ASAD-FAULWELL.php" class="lightwindow"></a></td>
+    <td style="text-align:center;"><a href="parts/c2012speakersdetkuwait/JOAQUIN-PEREZ-GOICOECHEA.php" class="lightwindow"><img width="135px" height="135px" src="img/c2012/speakers/JOAQUIN-PEREZ-GOICOECHEA.jpg" /></a></td>
   </tr>
   <tr>
-    <td style="padding-top:5px;"></td>
+    <td style="padding-top:5px;"><strong> JOAQUIN PEREZ-GOICOECHEA</strong></td>
   </tr>
   <tr>
-    <td><p>&nbsp;</p></td>
+    <td><p>Architect and partner of AGI architecture - Kuwait</p></td>
   </tr>
 </table></td>
     <td width="142"><table width="135" border="0" align="center" cellpadding="0" cellspacing="0">

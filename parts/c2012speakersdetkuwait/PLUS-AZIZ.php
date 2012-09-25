@@ -37,7 +37,7 @@
     <td><h3>LECTURE TITLE:</h3></td>
   </tr>
   <tr>
-    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">Arabesque Through the Lens of a Trend Spotter
+    <td><span style="color:#E94F1B;line-height:12pt;font-size:12pt;">From Khaleejesque Trends to Arabesque Insights
 </span></td>
   </tr>
 </table>

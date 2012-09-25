@@ -1,4 +1,4 @@
-<table width="660"><tr><td>
+
 
 <table width="360" border="0" align="center" cellpadding="0" cellspacing="0">
 			  <tr>
@@ -53,25 +53,5 @@
                 
 			  </tr>
 	  </table>            
-            
-</td>
-<td style="padding-left:20px">
 
-<table width="300" border="0" cellspacing="0" cellpadding="0" style="vertical-align:top !important; ">
-                  <tr>
-                    <td><h3>WORKSHOP</h3></td>
-                  </tr>
-                  <tr>
-                    <td><span style="color:#E94F1B;line-height:12pt;font-size:15pt;">The Journey of the reversed Migration</span></td>
-                  </tr>
-                                    <tr>
-                    <td><p>The Journey of Reversed Migration, الهجرة العكسية translated in Arabic to Entails a shift of popular movement. The west, for so long, has interpreted Arabian civilization in ways that do not truly reflect the essence of our ethnicity. What is lost in translation is out lasting ability to create marvelous works of art. As a vocational, hands on activity we will engage the participants in a creative process to develop Jewelry pieces, infused by traditional Arabian work, while aiming to modernize their pieces, using time-honored resources to appeal to international markets. The materials used are key as they will comprise of Pearls, Gold Thread and Gold wires. Being the chief commodity for trade and the fuel to Kuwaiti economic established in the early stages of Kuwait civilization, pearls symbolize a crest of Kuwait’s customs and gold soon after became the highest commodity of trade from India, infusing our Jewelry with beautiful creations of Gold and Pearl.</p>
-                      <p><br />
-                      </p></td>
-                  </tr>
-      </table>
-
-                
-
-</td></tr></table>
 <!-- google ana-->  
