@@ -68,7 +68,7 @@
 
 <!-- **************************************************************************************** --> 
 	<!-- confrences--> 
-
+<?php if($conf2012kuwait==1) {include('parts/conf2012kuwait.php');};?>  
 <?php if($conf2012==1) {include('parts/conf2012.php');};?>        
 <?php if($conf2010==1) {include('parts/conf2010.php');};?>        
 

@@ -11,6 +11,7 @@
 	$menumain=1;
 	$manustaycon=1;
 
+	$conf2012kuwait=1;
 	$conf2012=1;
 	$conf2010=1;
 

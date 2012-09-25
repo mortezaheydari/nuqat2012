@@ -17,6 +17,7 @@ $conferencescont22012=0;
 $conferencescont12010=0;
 $conferencescont12010=0;
 
+$conf2012kuwait=0;
 $conf2012=0;
 $conf2010=0;
 
