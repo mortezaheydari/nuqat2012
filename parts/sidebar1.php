@@ -80,7 +80,7 @@ Limited Tickets!--></td>
 </table>
 
 <!--Holidayin-->
-<table class="side-bar-table" style="position:relative;top:-1px; margin-top: 10px;" width="235" border="0" cellspacing="0" cellpadding="0">       
+<table class="side-bar-table" style="position:relative;top:-1px; margin-top: 10px; height:175px" width="235" height="175px" border="0" cellspacing="0" cellpadding="0">       
  
     <tr><td style="padding-bottom:5px;text-align:center;">
     <br /> 
