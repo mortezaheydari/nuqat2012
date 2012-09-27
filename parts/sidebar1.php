@@ -78,3 +78,31 @@ Limited Tickets!--></td>
     </td>
   </tr>
 </table>
+
+<!--Holidayin-->
+<table class="side-bar-table" style="position:relative;top:-1px; margin-top: 10px;" width="235" border="0" cellspacing="0" cellpadding="0">       
+ 
+    <tr><td style="padding-bottom:5px;text-align:center;">
+    <br /> 
+    <span style="font-size:1.5em;"> Special Rates For <br /> Nuqat Participants <br /> </span>
+    
+    <a href="http://www.holidayinn.com/hotels/us/en/kuwait-city/kwidt/hoteldetail" target="_blank" style="color:#222">click here</a>
+    
+        </td></tr>
+
+  <tr>
+    <td style="padding-bottom:5px;text-align:center;">
+    
+    <table>
+<tr><td style="padding-left:10px">
+    <a href="http://www.holidayinn.com/hotels/us/en/kuwait-city/kwidt/hoteldetail" target="_blank"><img width="220px" height="57px" src="img/c2012/sponsorskuwait/Holiday_inn.jpg" /></a>
+</td></tr>
+</table>
+	
+    </td></tr>
+    
+    <tr><td style="padding-bottom:5px;text-align:center;">
+    
+    <a href="mailto:holidayinn.kuwaitdtsales@ihg.com" target="_blank" style="color:#222">holidayinn.kuwaitdtsales@ihg.com</a>
+    
+        </td></tr></table>
