@@ -16,7 +16,7 @@
     <td>  <h3>BIO</h3></td>
   </tr>
   <tr>
-    <td>The field of trend spotting houses many approaches, resources, and applications. Learn how this field can enrich your creative or business idea. Participants will learn about the various methods, sharpen their ability to analyze culture, and apply a strategic approach. Participants may come to this workshop with a design concept / business idea / communications campaign that needs development or start something from scratch.
+    <td>Senior Trend analyst at NYC based marketing company Fathom+Hatch and musical entrepreneur with a background in qualitative consumer research and trend spotting, philosophy and advertising.
 <br/><br/>
 <a class="nav-twotwelve" target="_blank" href="http://about.me/plusaziz">about.me/plusaziz</a><br /><a class="nav-twotwelve" target="_blank" href="http://twitter.com/Plusaziz">twitter.com/Plusaziz</a></td>
   </tr>
