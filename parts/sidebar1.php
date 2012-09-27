@@ -35,7 +35,7 @@ Limited Tickets!--></td>
 </table>
 <table>
 <tr><td style="padding-left:10px">
-    <a href="http://www.alsadu.org.kw" target="_blank"><img width="220px" height="41px" src="img/c2012/sponsorskuwait/alsadu.jpg" /></a>
+    <a href="http://www.alsadu.org.kw" target="_blank"><img width="220px" height="63px" src="img/c2012/sponsorskuwait/alsadu.jpg" /></a>
 </td></tr>
 </table>
 
