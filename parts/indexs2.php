@@ -30,7 +30,9 @@
 				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/04.jpg" /></a></li>
 				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/05.jpg" /></a></li>
 				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/06.jpg" /></a></li>
-				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/07.jpg" /></a></li>                
+				<li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/07.jpg" /></a></li>     
+                
+                <li><a href="c2012kuwait.php#speakers"><img width="360px" height="150px" src="img/c2012/speakersgallerykuwait/08.jpg" /></a></li>             
 			</ul>
            
 		</div>                                        <a href="c2012kuwait.php#speakers"><div class="imageBottom2">SPEAKERS<br />
@@ -51,7 +53,7 @@
     
     <table width="340"  border="0" cellspacing="0" cellpadding="0" class="c2012ssld-04" style="vertical-align:top !important; margin-top:20px">
       <tr>
-        <td><strong class="c2012ssld-02">OVER 18 SPEAKERS</strong></td>
+        <td><strong class="c2012ssld-02">OVER 21 SPEAKERS</strong></td>
       </tr>
       <tr>
         <td><strong class="c2012ssld-02">10 WORKSHOPS</strong></td>
