@@ -38,7 +38,40 @@
 <!--sponsors row-01 end-->
 
 <!--sponsors row-02-->
+<table><tr>
+<td style="text-align:left; padding:5px; width:620px"><span style="padding-top:5px;color:#636362;">IN ASSOCIATION WITH</span>
+</td>
 
+<td style="text-align:left;padding:5px; border-left:thin solid #636362; width:120px"><span style="padding-top:5px;color:#636362;">MEDIA PARTNERS</span>
+</td>
+<td style="text-align:left; padding-left:5px; vertical-align:bottom; border-left:thin solid #636362; width:120px">
+<span style="padding-top:5px;color:#636362;">OFFICIAL TRANSPORTER</span>
+</td>
+
+</tr>
+
+<td style="text-align:left; padding-left:5px; vertical-align:bottom">
+
+
+<a href="http://darmuseum.org.kw/english/" target="_blank"><img width="140px" height="68px" src="img/c2012/sponsorskuwait/dar-alathat.jpg" /></a>
+
+    <a href="http://americani.wordpress.com/" target="_blank"><img width="85px" height="68px" src="img/c2012/sponsorskuwait/amricani.jpg" /></a>
+    
+<a href="http://www.alsadu.org.kw" target="_blank"><img width="200px" height="57px" src="img/c2012/sponsorskuwait/alsadu.jpg" /></a>
+    
+</td>
+
+<td style="text-align:left;  padding-right:5px; border-left:thin solid #636362;" >
+
+
+<a href="http://www.khaleejesque.com/" target="_blank"><img width="104px" height="60px" src="img/c2012/sponsorskuwait/khaleej.jpg" /></a>
+</td>
+<td style="text-align:left; padding-left:5px; vertical-align:bottom; border-left:thin solid #636362;">
+<img width="100px" height="60px" src="img/c2012/sponsorskuwait/londonlimo.jpg" />
+</td>
+</tr>
+<tr style="height:20px;"><td></td></tr>
+</table>
 <!--sponsors row-02 end-->
 
 <!--sponsors row-03-->
@@ -84,45 +117,6 @@
 
 </td>
 
-</tr>
-<tr style="height:20px;"><td></td></tr>
-</table>
-
-<table><tr>
-<!--<td style="text-align:left; padding:5px; width:620px"><span style="padding-top:5px;color:#636362;">IN ASSOCIATION WITH</span>
-</td>-->
-
-<td style="text-align:left;padding:5px; width:200px"><span style="padding-top:5px;color:#636362;">MEDIA PARTNERS</span>
-</td>
-<td style="text-align:left; padding-left:5px; vertical-align:bottom; border-left:thin solid #636362; width:120px">
-<span style="padding-top:5px;color:#636362;">OFFICIAL TRANSPORTER</span>
-</td>
-
-</tr>
-
-<!--<td style="text-align:left; padding-left:5px; vertical-align:bottom">
-
-
-<a href="http://darmuseum.org.kw/english/" target="_blank"><img width="140px" height="68px" src="img/c2012/sponsorskuwait/dar-alathat.jpg" /></a>
-
-    <a href="http://americani.wordpress.com/" target="_blank"><img width="85px" height="68px" src="img/c2012/sponsorskuwait/amricani.jpg" /></a>
-    
-<a href="http://www.alsadu.org.kw" target="_blank"><img width="200px" height="57px" src="img/c2012/sponsorskuwait/alsadu.jpg" /></a>
-    
-</td>-->
-
-<td style="text-align:left;  padding-right:5px;" >
-
-
-<a href="http://www.khaleejesque.com/" target="_blank"><img width="104px" height="60px" src="img/c2012/sponsorskuwait/khaleej.jpg" /></a>
-
-<a href="http://www.cfc-kw.com/" target="_blank"><img width="62px" height="60px" src="img/c2012/sponsorskuwait/wtd.jpg" /></a>
-
-
-</td>
-<td style="text-align:left; padding-left:5px; vertical-align:bottom; border-left:thin solid #636362;">
-<img width="100px" height="60px" src="img/c2012/sponsorskuwait/londonlimo.jpg" />
-</td>
 </tr>
 <tr style="height:20px;"><td></td></tr>
 </table>
