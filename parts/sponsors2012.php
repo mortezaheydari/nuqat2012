@@ -116,7 +116,7 @@
 
 <a href="http://www.khaleejesque.com/" target="_blank"><img width="104px" height="60px" src="img/c2012/sponsorskuwait/khaleej.jpg" /></a>
 
-<a href="http://www.cfc-kw.com/" target="_blank"><img width="62px" height="60px" src="img/c2012/sponsorskuwait/wtd.jpg" /></a>
+<a href="http://wtdmag.com/" target="_blank"><img width="62px" height="60px" src="img/c2012/sponsorskuwait/wtd.jpg" /></a>
 
 
 </td>
