@@ -61,9 +61,11 @@
 
 <a href="https://www.qualitynet.org/" target="_blank"><img width="80px" height="60px" src="img/c2012/sponsorskuwait/qualitynet.jpg" /></a>
 
-<a href="http://www.dahan.com.kw/" target="_blank"><img width="62px" height="60px" src="img/c2012/sponsorskuwait/dahan.jpg" /></a>
-    
- 
+<a href="http://www.dahan.com.kw/" target="_blank"><img width="62px" height="60px" src="img/c2012/sponsorskuwait/dahan.jpg" />
+</a>
+
+<a href="http://www.yourevents.com.kw/" target="_blank"><img width="76px" height="60px" src="img/c2012/sponsorskuwait/u-r.jpg" /></a>
+
 <a href="http://www.archofkuwait.com/" target="_blank"><img width="47px" height="60px" src="img/c2012/sponsorskuwait/archofkuwait.jpg" /></a>
 
 <a href="http://www.brownbook.me/" target="_blank"><img width="100px" height="60px" src="img/c2012/sponsorskuwait/brownbook.jpg" /></a>
@@ -74,10 +76,13 @@
 <a href="http://www.gulfnet.com.kw" target="_blank"><img width="100px" height="60px" src="img/c2012/sponsorskuwait/gulfnet.jpg" /></a>
 
 
-<a href="http://www.gulfsat.com/" target="_blank"><img width="100px" height="60px" src="img/c2012/sponsorskuwait/gulfsat.jpg" /></a>
+
 
 </td></tr>
 <tr ><td style="padding-top:10px">
+
+<a href="http://www.gulfsat.com/" target="_blank"><img width="100px" height="60px" src="img/c2012/sponsorskuwait/gulfsat.jpg" /></a>
+
 <a href="http://www.marinafm.com/" target="_blank"><img width="62px" height="60px" src="img/c2012/sponsorskuwait/marinafm.jpg" /></a>
 
 <a href="http://www.cfc-kw.com/" target="_blank"><img width="62px" height="60px" src="img/c2012/sponsorskuwait/cfco.jpg" /></a>
