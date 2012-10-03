@@ -79,6 +79,34 @@ Limited Tickets!--></td>
   </tr>
 </table>
 
+<!--watch us-->
+<table class="side-bar-table" style="position:relative;top:-1px; margin-top: 10px; height:100px" width="235" height="175px" border="0" cellspacing="0" cellpadding="0">       
+ 
+    <tr><td style="padding-bottom:5px;text-align:center;">
+
+    <span style="font-size:1.5em;"> Watch Us Live </span>
+    
+    
+    
+        </td></tr>
+
+  <tr>
+    <td style="padding-bottom:5px;text-align:center;">
+    
+    <table>
+<tr><td style="padding-left:10px;text-align:center;">
+    <a href="http://www.youtube.com/nuqatme" target="_blank"><img style="padding-left:45px" width="50px" height="50px" src="img/youtube.png" /></a>
+    
+        <a href="https://plus.google.com/112462912842509069893/posts" target="_blank"><img style="padding-left:20px"width="50px" height="50px" src="img/googleplus.png" /></a>
+</td></tr>
+</table>
+	
+    </td></tr>
+    
+    </table>
+<!--watch us end-->
+
+
 <!--Holidayin-->
 <table class="side-bar-table" style="position:relative;top:-1px; margin-top: 10px; height:175px" width="235" height="175px" border="0" cellspacing="0" cellpadding="0">       
  
