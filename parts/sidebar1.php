@@ -82,7 +82,7 @@ Limited Tickets!--></td>
 <!--watch us-->
 <table class="side-bar-table" style="position:relative;top:-1px; margin-top: 10px; height:100px" width="235" height="175px" border="0" cellspacing="0" cellpadding="0">       
  
-    <tr><td style="padding-bottom:5px;text-align:center;">
+    <tr><td style="padding-bottom:5px; padding-top:10px; text-align:center;">
 
     <span style="font-size:1.5em;"> Watch Us Live </span>
     
